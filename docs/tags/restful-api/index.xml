@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RESTful API on Travis Green</title>
+    <link>https://greent3.github.io/tags/restful-api/</link>
+    <description>Recent content in RESTful API on Travis Green</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://greent3.github.io/tags/restful-api/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>D. RESTful Movie Database API w/ extensive unit testing</title>
+      <link>https://greent3.github.io/projects/creations/4_restful-imdb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://greent3.github.io/projects/creations/4_restful-imdb/</guid>
+      <description>The project is divided into 2 apps. Movielist app: handles all movie database functionality (adding movies to the database, querying lists of movies, creating/viewing reviews, etc.) along with their associated permissions. User app: handles user functionality (login, register, etc.) The unit testing covers all intented functionality for each level of authentication. The project also employs validators, pagination, and throttling.</description>
+    </item>
+    
+  </channel>
+</rss>

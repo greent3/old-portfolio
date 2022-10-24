@@ -1,0 +1,18 @@
+[
+  {
+      "grouping":"Languages and Tools",
+      "skills":[ "Python", "C++", "Java", "SQL", "mysql", "SQLite", "Solidity", "Django", "Postman", "git", "ORMs", "Excel (pivot tables)"]
+  },{
+      "grouping":"Concepts",
+      "skills":["RESTful APIs", "S.O.L.I.D. OOP", "Data Structures", "Algorithms (searching, sorting, recursion, etc.)", "Database Architecture", "Web Scraping", "Data Cleaning & Wrangling", "Selecting & Evaluating ML Models", "Calculus & Statistics fundamentals"
+]
+  },
+  {
+      "grouping":"Soft Skills",
+      "skills":["Public Speaking", "Writing", "Communicating complex concepts in a simple way", "Leadership",  "Customer Service",  "Optimism :)"]
+  },
+  {
+      "grouping":"Spoken Languages",
+      "skills":["English (Native)", "Mandarin (Functional Fluency)"]
+  }
+]

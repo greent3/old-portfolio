@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Regression on Travis Green</title>
+    <link>https://greent3.github.io/tags/regression/</link>
+    <description>Recent content in Regression on Travis Green</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://greent3.github.io/tags/regression/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I. Car Price Predictor</title>
+      <link>https://greent3.github.io/projects/creations/9_car_price_predictor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://greent3.github.io/projects/creations/9_car_price_predictor/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

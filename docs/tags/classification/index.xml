@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Classification on Travis Green</title>
+    <link>https://greent3.github.io/tags/classification/</link>
+    <description>Recent content in Classification on Travis Green</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://greent3.github.io/tags/classification/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>C. TensorFlow Road Sign Classifier</title>
+      <link>https://greent3.github.io/projects/creations/3_road_sign_classifier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://greent3.github.io/projects/creations/3_road_sign_classifier/</guid>
+      <description>As research continues in the development of self-driving cars, one of the key challenges is allowing these cars to develop an understanding of their environment from digital images.
+In my traffic-sign classification project, I used TensorFlow and the German Traffic Sign Recognition Benchmark dataset to build a neural network that puts images of road signs into different classifications.
+My role consisted of loading the data (images) into the program, resizing the images, and designing/implementing the neural network.</description>
+    </item>
+    
+    <item>
+      <title>G. Ecommerce Purchase Predictor</title>
+      <link>https://greent3.github.io/projects/creations/7_knn_purchase_predictor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://greent3.github.io/projects/creations/7_knn_purchase_predictor/</guid>
+      <description>When we run our program, we pass the location of a CSV file containing data about website shoppers as a command line argument. Our program:
+loads in that data reformats it into the correct data type splits it into training and testing data uses that data to train a k-nearest neighbors classification model and outputs the sensitivity (true positive rate) and specificity (true negative rate) of our trained model on our testing data.</description>
+    </item>
+    
+    <item>
+      <title>H. Whisky Review Sentiment Classifier</title>
+      <link>https://greent3.github.io/projects/creations/8_naive_bayes_review_classifier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://greent3.github.io/projects/creations/8_naive_bayes_review_classifier/</guid>
+      <description>Classifying Japanese Whisky reviews using TFIDF/Naive Bayes
+Given a CSV file with 200 Japanese whisky reviews labeled &amp;ldquo;positive&amp;rdquo; or &amp;ldquo;negative&amp;rdquo;, and 900 unlabeled reviews, let&amp;rsquo;s train a Naive Bayes model on TFIDF data so we can predict the labels for the remaining 900.
+Note: The dataset was not that great (small, lots of typos, many negative reviews with positive sentiment words &amp;ldquo;ex: not that good&amp;rdquo;), but it still served as good practice for cleaning data, NB, vectorizers, working with dataframes, and even a little bit of SQL at the end.</description>
+    </item>
+    
+  </channel>
+</rss>

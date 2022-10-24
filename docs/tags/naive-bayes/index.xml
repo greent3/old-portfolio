@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Naive Bayes on Travis Green</title>
+    <link>https://greent3.github.io/tags/naive-bayes/</link>
+    <description>Recent content in Naive Bayes on Travis Green</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://greent3.github.io/tags/naive-bayes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>H. Whisky Review Sentiment Classifier</title>
+      <link>https://greent3.github.io/projects/creations/8_naive_bayes_review_classifier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://greent3.github.io/projects/creations/8_naive_bayes_review_classifier/</guid>
+      <description>Classifying Japanese Whisky reviews using TFIDF/Naive Bayes
+Given a CSV file with 200 Japanese whisky reviews labeled &amp;ldquo;positive&amp;rdquo; or &amp;ldquo;negative&amp;rdquo;, and 900 unlabeled reviews, let&amp;rsquo;s train a Naive Bayes model on TFIDF data so we can predict the labels for the remaining 900.
+Note: The dataset was not that great (small, lots of typos, many negative reviews with positive sentiment words &amp;ldquo;ex: not that good&amp;rdquo;), but it still served as good practice for cleaning data, NB, vectorizers, working with dataframes, and even a little bit of SQL at the end.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Speeches on Travis Green</title>
+    <link>https://greent3.github.io/publications/</link>
+    <description>Recent content in Speeches on Travis Green</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jan 2020 16:47:30 +0000</lastBuildDate><atom:link href="https://greent3.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3 Key Concepts of Stoicism</title>
+      <link>https://greent3.github.io/publications/stoicism/</link>
+      <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://greent3.github.io/publications/stoicism/</guid>
+      <description>Summary:
+We humans react not to events, but rather our judgement about said events. Change your judgements to change your world. Focus only on what you can control. Awareness and rational preparation have value to the future at low cost to the present, but worrying about what one can not know or control of the future has no value to either, and comes at the cost of the present It&amp;rsquo;s human nature to compare yourself against those more fortunate.</description>
+    </item>
+    
+    <item>
+      <title>habits of different consumers (mandarin)</title>
+      <link>https://greent3.github.io/publications/consumptionhabits/</link>
+      <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://greent3.github.io/publications/consumptionhabits/</guid>
+      <description>TL;DR
+We humans react not to events, but rather our judgement about said events. Change your judgements to change your world. Focus only on what you can control. Awareness and rational preparation have value to the future at low cost to the present, but worrying about what one can not know or control of the future has no value to either, and comes at the cost of the present It&amp;rsquo;s human nature to compare yourself against those more fortunate.</description>
+    </item>
+    
+    <item>
+      <title>Key takeaways from Google&#39;s TinyML courses</title>
+      <link>https://greent3.github.io/publications/summarizingtinyml/</link>
+      <pubDate>Mon, 28 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://greent3.github.io/publications/summarizingtinyml/</guid>
+      <description>I talk about some lessons I learned from Google&amp;rsquo;s TinyML courses, as well as demonstrate my final project.</description>
+    </item>
+    
+  </channel>
+</rss>

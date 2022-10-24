@@ -1,0 +1,37 @@
+title = "Travis Green"
+baseURL = "https://greent3.github.io"
+theme = "resume"
+languageCode = "en-us"
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+enableGitInfo = false
+publishDir = "docs"
+
+[params]
+address = "Summerville, SC"
+email = "green.travis95@gmail.com"
+favicon = "img/xiexie.ico"
+firstName = "Travis"
+lastName = "Green"
+profileImage = "img/award2.jpg"
+showEducation = true
+showExperience = true
+showOpenSource = false
+showProjects = true
+showPublications = true
+showQr = false
+showSkills = true
+canonifyURLs = true
+
+
+trackerID = "XX-123446-01"
+
+
+
+
+[outputs]
+home = ["HTML", "JSON"]
+
+[taxonomies]
+tag = "tags"

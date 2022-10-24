@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Scraping on Travis Green</title>
+    <link>https://greent3.github.io/tags/web-scraping/</link>
+    <description>Recent content in Web Scraping on Travis Green</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://greent3.github.io/tags/web-scraping/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>L. Detective Conan Web Scraper</title>
+      <link>https://greent3.github.io/projects/creations/95_scraping_detective_conan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://greent3.github.io/projects/creations/95_scraping_detective_conan/</guid>
+      <description>Yay! We convinced our buddy (Doug) to watch Detective Conan! However, he already read the manga and doesn&amp;rsquo;t want to watch episodes that he&amp;rsquo;s already read. No worries! Let&amp;rsquo;s use the data at Detective Conan Wiki to compile a list of episodes that weren&amp;rsquo;t in the manga.</description>
+    </item>
+    
+  </channel>
+</rss>

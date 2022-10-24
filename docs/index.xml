@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Travis Green</title>
+    <link>https://greent3.github.io/</link>
+    <description>Recent content in Home on Travis Green</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Feb 2018 18:56:13 -0500</lastBuildDate><atom:link href="https://greent3.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Atlassian Deployment Triggers</title>
+      <link>https://greent3.github.io/projects/contributions/deploy-triggers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://greent3.github.io/projects/contributions/deploy-triggers/</guid>
+      <description>Addressed pretty significant page load performance issue founde in larger deployments. Eliminates uses of intensive backend query, replacing it with an asynchronous API call against a lucene index. This change reduces page load from from 2+ minutes to nearly instant, with an incredibly responsive UI.</description>
+    </item>
+    
+    <item>
+      <title>3 Key Concepts of Stoicism</title>
+      <link>https://greent3.github.io/publications/stoicism/</link>
+      <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://greent3.github.io/publications/stoicism/</guid>
+      <description>Summary:
+We humans react not to events, but rather our judgement about said events. Change your judgements to change your world. Focus only on what you can control. Awareness and rational preparation have value to the future at low cost to the present, but worrying about what one can not know or control of the future has no value to either, and comes at the cost of the present It&amp;rsquo;s human nature to compare yourself against those more fortunate.</description>
+    </item>
+    
+    <item>
+      <title>habits of different consumers (mandarin)</title>
+      <link>https://greent3.github.io/publications/consumptionhabits/</link>
+      <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://greent3.github.io/publications/consumptionhabits/</guid>
+      <description>TL;DR
+We humans react not to events, but rather our judgement about said events. Change your judgements to change your world. Focus only on what you can control. Awareness and rational preparation have value to the future at low cost to the present, but worrying about what one can not know or control of the future has no value to either, and comes at the cost of the present It&amp;rsquo;s human nature to compare yourself against those more fortunate.</description>
+    </item>
+    
+    <item>
+      <title>Key takeaways from Google&#39;s TinyML courses</title>
+      <link>https://greent3.github.io/publications/summarizingtinyml/</link>
+      <pubDate>Mon, 28 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://greent3.github.io/publications/summarizingtinyml/</guid>
+      <description>I talk about some lessons I learned from Google&amp;rsquo;s TinyML courses, as well as demonstrate my final project.</description>
+    </item>
+    
+    <item>
+      <title>Added Docker Build Status Badge to shields.io</title>
+      <link>https://greent3.github.io/projects/contributions/shields-docker/</link>
+      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
+      
+      <guid>https://greent3.github.io/projects/contributions/shields-docker/</guid>
+      <description>Shields.io is a massive library of badges that can be inserted into project README&amp;rsquo;s or websites displaying various statuses (code coverage, health, version, etc). Support for docker was missing the current build health, and was a pretty trivial addition.</description>
+    </item>
+    
+    <item>
+      <title>Schema.org Structured Data documentation fixes</title>
+      <link>https://greent3.github.io/projects/contributions/schema-org/</link>
+      <pubDate>Tue, 07 Jan 2020 17:08:21 +0000</pubDate>
+      
+      <guid>https://greent3.github.io/projects/contributions/schema-org/</guid>
+      <description>While adding Structured Data to a client&amp;rsquo;s website I found some example JSON that was invalid. Simple contribution to cleanup the user documentation providing syntactically valid JSON documents.</description>
+    </item>
+    
+    <item>
+      <title>Forcing Visits to use SSL</title>
+      <link>https://greent3.github.io/blog/force-ssl/</link>
+      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
+      
+      <guid>https://greent3.github.io/blog/force-ssl/</guid>
+      <description>Intro Doesn&amp;rsquo;t matter whether it&amp;rsquo;s a CakePHP app for a client, your own personal CMS, or any other web based application. If your passing around passwords or other sensitive info you should really implement SSL. SSL provides 2 main perks to your visitors.
+First it encrypts all communication that flies across the web. This prevents curious or devious billies from getting your secrets. Secondly it ensures to the user that your server is in fact who it claims, and not a nasty &amp;lsquo;man in the middle&amp;quot; attack.</description>
+    </item>
+    
+    <item>
+      <title>A. Drug Use by Education</title>
+      <link>https://greent3.github.io/projects/creations/1_drug_survey_analysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://greent3.github.io/projects/creations/1_drug_survey_analysis/</guid>
+      <description>With SQL queries, we&amp;rsquo;re able to answer questions like:
+Do graduate degree holders use caffeine more often than less educated people? Which illegal drugs are becoming more popular over the decades? Are less educated people more likely to lie about (overreport) drug usage? Do senior citizens smoke &amp;amp; drink less than young adults? </description>
+    </item>
+    
+    <item>
+      <title>B. Django E-Learning Platform</title>
+      <link>https://greent3.github.io/projects/creations/2_e-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://greent3.github.io/projects/creations/2_e-learning/</guid>
+      <description>Coming Soon!</description>
+    </item>
+    
+    <item>
+      <title>C. TensorFlow Road Sign Classifier</title>
+      <link>https://greent3.github.io/projects/creations/3_road_sign_classifier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://greent3.github.io/projects/creations/3_road_sign_classifier/</guid>
+      <description>As research continues in the development of self-driving cars, one of the key challenges is allowing these cars to develop an understanding of their environment from digital images.
+In my traffic-sign classification project, I used TensorFlow and the German Traffic Sign Recognition Benchmark dataset to build a neural network that puts images of road signs into different classifications.
+My role consisted of loading the data (images) into the program, resizing the images, and designing/implementing the neural network.</description>
+    </item>
+    
+    <item>
+      <title>D. RESTful Movie Database API w/ extensive unit testing</title>
+      <link>https://greent3.github.io/projects/creations/4_restful-imdb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://greent3.github.io/projects/creations/4_restful-imdb/</guid>
+      <description>The project is divided into 2 apps. Movielist app: handles all movie database functionality (adding movies to the database, querying lists of movies, creating/viewing reviews, etc.) along with their associated permissions. User app: handles user functionality (login, register, etc.) The unit testing covers all intented functionality for each level of authentication. The project also employs validators, pagination, and throttling.</description>
+    </item>
+    
+    <item>
+      <title>E. Investigating User Decline</title>
+      <link>https://greent3.github.io/projects/creations/5_analyzing_user_decrease/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://greent3.github.io/projects/creations/5_analyzing_user_decrease/</guid>
+      <description>SITUATION: You show up to work one morning and the head of the product team asks you what you think about the latest activity on the user engagement dashboards. You fire them up, and notice a decline in users over the past 2 months.
+ACTION: Using focused SQL queries to gather data about user events over the past couple months and Excel for data visualization, I was able to provide the following conclusions and recommendations.</description>
+    </item>
+    
+    <item>
+      <title>F. C&#43;&#43; Customer Database Using Files</title>
+      <link>https://greent3.github.io/projects/creations/6_customer_record_database/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://greent3.github.io/projects/creations/6_customer_record_database/</guid>
+      <description>Uses recursion, pointers, operator overloading, debug mode, copy constructors, and makefiles.
+Linked-list implementation of a customer information database. User can add, print, modify, and delete records within the database. The user can also reverse the list of records.
+The records within the list are written to a file upon exiting the application, and read from a file upon starting an application.</description>
+    </item>
+    
+    <item>
+      <title>G. Ecommerce Purchase Predictor</title>
+      <link>https://greent3.github.io/projects/creations/7_knn_purchase_predictor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://greent3.github.io/projects/creations/7_knn_purchase_predictor/</guid>
+      <description>When we run our program, we pass the location of a CSV file containing data about website shoppers as a command line argument. Our program:
+loads in that data reformats it into the correct data type splits it into training and testing data uses that data to train a k-nearest neighbors classification model and outputs the sensitivity (true positive rate) and specificity (true negative rate) of our trained model on our testing data.</description>
+    </item>
+    
+    <item>
+      <title>H. Whisky Review Sentiment Classifier</title>
+      <link>https://greent3.github.io/projects/creations/8_naive_bayes_review_classifier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://greent3.github.io/projects/creations/8_naive_bayes_review_classifier/</guid>
+      <description>Classifying Japanese Whisky reviews using TFIDF/Naive Bayes
+Given a CSV file with 200 Japanese whisky reviews labeled &amp;ldquo;positive&amp;rdquo; or &amp;ldquo;negative&amp;rdquo;, and 900 unlabeled reviews, let&amp;rsquo;s train a Naive Bayes model on TFIDF data so we can predict the labels for the remaining 900.
+Note: The dataset was not that great (small, lots of typos, many negative reviews with positive sentiment words &amp;ldquo;ex: not that good&amp;rdquo;), but it still served as good practice for cleaning data, NB, vectorizers, working with dataframes, and even a little bit of SQL at the end.</description>
+    </item>
+    
+    <item>
+      <title>I. Car Price Predictor</title>
+      <link>https://greent3.github.io/projects/creations/9_car_price_predictor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://greent3.github.io/projects/creations/9_car_price_predictor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Golden Cross Trading Algo (video)</title>
+      <link>https://greent3.github.io/projects/creations/93_golden_cross/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://greent3.github.io/projects/creations/93_golden_cross/</guid>
+      <description>Buys or sells an equity in anticipation of the 5 period SMA crossing the 20 period SMA and employs a trailing stoploss. Resolution, SMA periods, stoplosses, and order entry/exit points are all optimizable.
+Video linked below!</description>
+    </item>
+    
+    <item>
+      <title>K. C&#43;&#43; SOLID Video Series</title>
+      <link>https://greent3.github.io/projects/creations/94_c&#43;&#43;_video_series/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://greent3.github.io/projects/creations/94_c&#43;&#43;_video_series/</guid>
+      <description>Providing simple, yet comprehensive examples of Bob Martin&amp;rsquo;s SOLID principles, using C++.
+Video series linked below!</description>
+    </item>
+    
+    <item>
+      <title>L. Detective Conan Web Scraper</title>
+      <link>https://greent3.github.io/projects/creations/95_scraping_detective_conan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://greent3.github.io/projects/creations/95_scraping_detective_conan/</guid>
+      <description>Yay! We convinced our buddy (Doug) to watch Detective Conan! However, he already read the manga and doesn&amp;rsquo;t want to watch episodes that he&amp;rsquo;s already read. No worries! Let&amp;rsquo;s use the data at Detective Conan Wiki to compile a list of episodes that weren&amp;rsquo;t in the manga.</description>
+    </item>
+    
+    <item>
+      <title>M. Teaching a robot NIM</title>
+      <link>https://greent3.github.io/projects/creations/96_nim_bot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://greent3.github.io/projects/creations/96_nim_bot/</guid>
+      <description>By playing against itself repeatedly and learning from experience, eventually our AI will learn which actions to take and which actions to avoid. We do this through Q-learning, or assigning a reward value for every (state, action) pair. We’ll represent the game as an array (game board) of numbers (# of pieces in each row).</description>
+    </item>
+    
+    <item>
+      <title>N. Beautiful Soup</title>
+      <link>https://greent3.github.io/projects/creations/97_beautiful_soup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://greent3.github.io/projects/creations/97_beautiful_soup/</guid>
+      <description>Coming Soon!</description>
+    </item>
+    
+    <item>
+      <title>O. React Pomodoro Timer</title>
+      <link>https://greent3.github.io/projects/creations/99_25&#43;5_clock/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://greent3.github.io/projects/creations/99_25&#43;5_clock/</guid>
+      <description>A timer with customizable parameters for work time and break time.
+Implemented in 3 ways: as a single page stateful REACT app, a stateful app divided into parent &amp;amp; child classes, and an app made of functional components using hooks.
+What Is the Pomodoro Technique? Using this method, you break your workday into 25-minute chunks separated by five-minute breaks. These intervals are referred to as pomodoros.
+Every time the clock runs out, the timer automatically resets and switches to work/break session.</description>
+    </item>
+    
+    <item>
+      <title>Search Results</title>
+      <link>https://greent3.github.io/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://greent3.github.io/search/</guid>
+      <description>This file exists solely to respond to /search URL with the related search layout template.
+No content shown here is rendered, all content is based in the template layouts/page/search.html
+Setting a very low sitemap priority will tell search engines this is not important content.
+This implementation uses Fusejs, jquery and mark.js
+Initial setup Search depends on additional output content type of JSON in config.toml
+[outputs] home = [&amp;#34;HTML&amp;#34;, &amp;#34;JSON&amp;#34;] Searching additional fileds To search additional fields defined in front matter, you must add it in 2 places.</description>
+    </item>
+    
+  </channel>
+</rss>

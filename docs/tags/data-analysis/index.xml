@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Analysis on Travis Green</title>
+    <link>https://greent3.github.io/tags/data-analysis/</link>
+    <description>Recent content in Data Analysis on Travis Green</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://greent3.github.io/tags/data-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A. Drug Use by Education</title>
+      <link>https://greent3.github.io/projects/creations/1_drug_survey_analysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://greent3.github.io/projects/creations/1_drug_survey_analysis/</guid>
+      <description>With SQL queries, we&amp;rsquo;re able to answer questions like:
+Do graduate degree holders use caffeine more often than less educated people? Which illegal drugs are becoming more popular over the decades? Are less educated people more likely to lie about (overreport) drug usage? Do senior citizens smoke &amp;amp; drink less than young adults? </description>
+    </item>
+    
+    <item>
+      <title>E. Investigating User Decline</title>
+      <link>https://greent3.github.io/projects/creations/5_analyzing_user_decrease/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://greent3.github.io/projects/creations/5_analyzing_user_decrease/</guid>
+      <description>SITUATION: You show up to work one morning and the head of the product team asks you what you think about the latest activity on the user engagement dashboards. You fire them up, and notice a decline in users over the past 2 months.
+ACTION: Using focused SQL queries to gather data about user events over the past couple months and Excel for data visualization, I was able to provide the following conclusions and recommendations.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ML on Travis Green</title>
+    <link>https://greent3.github.io/tags/ml/</link>
+    <description>Recent content in ML on Travis Green</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://greent3.github.io/tags/ml/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>G. Ecommerce Purchase Predictor</title>
+      <link>https://greent3.github.io/projects/creations/7_knn_purchase_predictor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://greent3.github.io/projects/creations/7_knn_purchase_predictor/</guid>
+      <description>When we run our program, we pass the location of a CSV file containing data about website shoppers as a command line argument. Our program:
+loads in that data reformats it into the correct data type splits it into training and testing data uses that data to train a k-nearest neighbors classification model and outputs the sensitivity (true positive rate) and specificity (true negative rate) of our trained model on our testing data.</description>
+    </item>
+    
+    <item>
+      <title>I. Car Price Predictor</title>
+      <link>https://greent3.github.io/projects/creations/9_car_price_predictor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://greent3.github.io/projects/creations/9_car_price_predictor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Teaching a robot NIM</title>
+      <link>https://greent3.github.io/projects/creations/96_nim_bot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://greent3.github.io/projects/creations/96_nim_bot/</guid>
+      <description>By playing against itself repeatedly and learning from experience, eventually our AI will learn which actions to take and which actions to avoid. We do this through Q-learning, or assigning a reward value for every (state, action) pair. We’ll represent the game as an array (game board) of numbers (# of pieces in each row).</description>
+    </item>
+    
+  </channel>
+</rss>
