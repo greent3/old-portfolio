@@ -15,5 +15,27 @@
       <description>Addressed pretty significant page load performance issue founde in larger deployments. Eliminates uses of intensive backend query, replacing it with an asynchronous API call against a lucene index. This change reduces page load from from 2+ minutes to nearly instant, with an incredibly responsive UI.</description>
     </item>
     
+    <item>
+      <title>S. Calculate My Outs (Texas Hold&#39;em)</title>
+      <link>https://greent3.github.io/projects/creations/994_calculate_my_outs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://greent3.github.io/projects/creations/994_calculate_my_outs/</guid>
+      <description>An &amp;lsquo;out&amp;rsquo; is a card that you have yet to see and can improve your hand in Texas Hold&amp;rsquo;em. This app shuffles a deck, gives every player at the table a hand of 2 cards, deals a flop, and then uses the cards in the flop and your hand to determine which cards are necessary to increase the value of your hand.
+Note: I wrote this program while quarantined in my dorm at University.</description>
+    </item>
+    
+    <item>
+      <title>T. Watch out for Old Man Herbert!</title>
+      <link>https://greent3.github.io/projects/creations/995_herbert/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://greent3.github.io/projects/creations/995_herbert/</guid>
+      <description>A playable game completed as a university project with the following specifications: The player&amp;rsquo;s health decreases when it moves
+The player&amp;rsquo;s health can be rejuvinated when within proximity to items (sodas and doughnuts)
+The player&amp;rsquo;s health decreaes when within proximity to enemies (old man herbert)
+The game will end when the player runs out of health</description>
+    </item>
+    
   </channel>
 </rss>

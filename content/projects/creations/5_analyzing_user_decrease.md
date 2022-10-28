@@ -9,7 +9,7 @@
 
 
 #### SITUATION:
-You show up to work one morning and the head of the product team asks you what you think about the latest activity on the user engagement dashboards. You fire them up, and notice a decline in users over the past 2 months.
+You show up to work one morning and the head of the product team asks you what you think about the latest activity on the user engagement dashboards. You fire them up and notice a decline in users over the past 2 months.
 
 #### ACTION:
 Using focused SQL queries to gather data about user events over the past couple months and Excel for data visualization, I was able to provide the following conclusions and recommendations.

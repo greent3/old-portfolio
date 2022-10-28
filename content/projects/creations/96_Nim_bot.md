@@ -12,4 +12,4 @@
 }
 
 
-By playing against itself repeatedly and learning from experience, eventually our AI will learn which actions to take and which actions to avoid. We do this through Q-learning, or assigning a reward value for every (state, action) pair. We’ll represent the game as an array (game board) of numbers (# of pieces in each row).
+By playing against itself repeatedly and learning from experience, eventually our AI will learn which actions to take and which actions to avoid when playing Nim. We do this through Q-learning, or assigning a reward value for every (state, action) pair. We’ll represent the game as an array (game board) of numbers (# of pieces in each row).

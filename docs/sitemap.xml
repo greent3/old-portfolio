@@ -86,6 +86,8 @@
   </url><url>
     <loc>https://greent3.github.io/projects/creations/1_drug_survey_analysis/</loc>
   </url><url>
+    <loc>https://greent3.github.io/tags/ai/</loc>
+  </url><url>
     <loc>https://greent3.github.io/tags/algo/</loc>
   </url><url>
     <loc>https://greent3.github.io/projects/creations/2_e-learning/</loc>
@@ -99,6 +101,8 @@
     <loc>https://greent3.github.io/tags/classification/</loc>
   </url><url>
     <loc>https://greent3.github.io/tags/computer-vision/</loc>
+  </url><url>
+    <loc>https://greent3.github.io/tags/constraint-satisfaction/</loc>
   </url><url>
     <loc>https://greent3.github.io/tags/css/</loc>
   </url><url>
@@ -142,11 +146,11 @@
   </url><url>
     <loc>https://greent3.github.io/projects/creations/96_nim_bot/</loc>
   </url><url>
+    <loc>https://greent3.github.io/tags/minimax/</loc>
+  </url><url>
     <loc>https://greent3.github.io/tags/ml/</loc>
   </url><url>
     <loc>https://greent3.github.io/tags/mysql/</loc>
-  </url><url>
-    <loc>https://greent3.github.io/projects/creations/97_beautiful_soup/</loc>
   </url><url>
     <loc>https://greent3.github.io/tags/naive-bayes/</loc>
   </url><url>
@@ -154,7 +158,13 @@
   </url><url>
     <loc>https://greent3.github.io/tags/oop/</loc>
   </url><url>
+    <loc>https://greent3.github.io/projects/creations/991_tic_tac_toe/</loc>
+  </url><url>
     <loc>https://greent3.github.io/tags/python/</loc>
+  </url><url>
+    <loc>https://greent3.github.io/projects/creations/992_minesweeper/</loc>
+  </url><url>
+    <loc>https://greent3.github.io/projects/creations/993_ai_crossword_constraint/</loc>
   </url><url>
     <loc>https://greent3.github.io/tags/random-forest/</loc>
   </url><url>
@@ -164,12 +174,16 @@
   </url><url>
     <loc>https://greent3.github.io/tags/restful-api/</loc>
   </url><url>
+    <loc>https://greent3.github.io/projects/creations/994_calculate_my_outs/</loc>
+  </url><url>
     <loc>https://greent3.github.io/search/</loc>
     <priority>0.1</priority>
   </url><url>
     <loc>https://greent3.github.io/tags/sql/</loc>
   </url><url>
     <loc>https://greent3.github.io/tags/sqlite/</loc>
+  </url><url>
+    <loc>https://greent3.github.io/projects/creations/995_herbert/</loc>
   </url><url>
     <loc>https://greent3.github.io/tags/tensorflow/</loc>
   </url><url>

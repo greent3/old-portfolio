@@ -52,7 +52,7 @@ My role consisted of loading the data (images) into the program, resizing the im
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://greent3.github.io/projects/creations/5_analyzing_user_decrease/</guid>
-      <description>SITUATION: You show up to work one morning and the head of the product team asks you what you think about the latest activity on the user engagement dashboards. You fire them up, and notice a decline in users over the past 2 months.
+      <description>SITUATION: You show up to work one morning and the head of the product team asks you what you think about the latest activity on the user engagement dashboards. You fire them up and notice a decline in users over the past 2 months.
 ACTION: Using focused SQL queries to gather data about user events over the past couple months and Excel for data visualization, I was able to provide the following conclusions and recommendations.</description>
     </item>
     
@@ -132,16 +132,7 @@ Video series linked below!</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://greent3.github.io/projects/creations/96_nim_bot/</guid>
-      <description>By playing against itself repeatedly and learning from experience, eventually our AI will learn which actions to take and which actions to avoid. We do this through Q-learning, or assigning a reward value for every (state, action) pair. We’ll represent the game as an array (game board) of numbers (# of pieces in each row).</description>
-    </item>
-    
-    <item>
-      <title>N. Beautiful Soup</title>
-      <link>https://greent3.github.io/projects/creations/97_beautiful_soup/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://greent3.github.io/projects/creations/97_beautiful_soup/</guid>
-      <description>Coming Soon!</description>
+      <description>By playing against itself repeatedly and learning from experience, eventually our AI will learn which actions to take and which actions to avoid when playing Nim. We do this through Q-learning, or assigning a reward value for every (state, action) pair. We’ll represent the game as an array (game board) of numbers (# of pieces in each row).</description>
     </item>
     
     <item>
@@ -154,6 +145,62 @@ Video series linked below!</description>
 Implemented in 3 ways: as a single page stateful REACT app, a stateful app divided into parent &amp;amp; child classes, and an app made of functional components using hooks.
 What Is the Pomodoro Technique? Using this method, you break your workday into 25-minute chunks separated by five-minute breaks. These intervals are referred to as pomodoros.
 Every time the clock runs out, the timer automatically resets and switches to work/break session.</description>
+    </item>
+    
+    <item>
+      <title>P. TicTacToe AI</title>
+      <link>https://greent3.github.io/projects/creations/991_tic_tac_toe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://greent3.github.io/projects/creations/991_tic_tac_toe/</guid>
+      <description>TicTacToe AI that uses a recursive minimax algorithm to determine the best possible move to make based on the best possible move their opponent (me) can play on the next turn.
+Our algorithm also keeps track of who&amp;rsquo;s turn it is, all possible moves given the current state of the board, and whether or not someone has won the game.
+Completed as part of Harvard&amp;rsquo;s AI with programming course.</description>
+    </item>
+    
+    <item>
+      <title>Q. Minesweeper AI</title>
+      <link>https://greent3.github.io/projects/creations/992_minesweeper/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://greent3.github.io/projects/creations/992_minesweeper/</guid>
+      <description>An AI capable of successfully finishing a game of minesweeper
+Logic is stored in the form of sentences, and the program uses a recursive algorithm to make inferences based on new knowledge obtained by clicking unexplored cells.
+The bot does not always win as sometimes there are no safe cells to click, and at that point the bot will have to make a random move.
+Completed as part of Harvard&amp;rsquo;s AI programming with python course.</description>
+    </item>
+    
+    <item>
+      <title>R. Constraint Satisfication Crossword Solver</title>
+      <link>https://greent3.github.io/projects/creations/993_ai_crossword_constraint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://greent3.github.io/projects/creations/993_ai_crossword_constraint/</guid>
+      <description>Brute force solving a crossword puzzle with unary constraints (length of words) and binary constraints (overlapping letters between words).
+The AI uses domains to manage possible words that can be used in the puzzle. When the program reaches a point where a constraint is no longer satisfied, it backtracks and removes unusable words from the domain.
+Completed as part of Harvard&amp;rsquo;s AI programming with Python course.</description>
+    </item>
+    
+    <item>
+      <title>S. Calculate My Outs (Texas Hold&#39;em)</title>
+      <link>https://greent3.github.io/projects/creations/994_calculate_my_outs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://greent3.github.io/projects/creations/994_calculate_my_outs/</guid>
+      <description>An &amp;lsquo;out&amp;rsquo; is a card that you have yet to see and can improve your hand in Texas Hold&amp;rsquo;em. This app shuffles a deck, gives every player at the table a hand of 2 cards, deals a flop, and then uses the cards in the flop and your hand to determine which cards are necessary to increase the value of your hand.
+Note: I wrote this program while quarantined in my dorm at University.</description>
+    </item>
+    
+    <item>
+      <title>T. Watch out for Old Man Herbert!</title>
+      <link>https://greent3.github.io/projects/creations/995_herbert/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://greent3.github.io/projects/creations/995_herbert/</guid>
+      <description>A playable game completed as a university project with the following specifications: The player&amp;rsquo;s health decreases when it moves
+The player&amp;rsquo;s health can be rejuvinated when within proximity to items (sodas and doughnuts)
+The player&amp;rsquo;s health decreaes when within proximity to enemies (old man herbert)
+The game will end when the player runs out of health</description>
     </item>
     
   </channel>

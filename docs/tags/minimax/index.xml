@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Minimax on Travis Green</title>
+    <link>https://greent3.github.io/tags/minimax/</link>
+    <description>Recent content in Minimax on Travis Green</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://greent3.github.io/tags/minimax/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>P. TicTacToe AI</title>
+      <link>https://greent3.github.io/projects/creations/991_tic_tac_toe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://greent3.github.io/projects/creations/991_tic_tac_toe/</guid>
+      <description>TicTacToe AI that uses a recursive minimax algorithm to determine the best possible move to make based on the best possible move their opponent (me) can play on the next turn.
+Our algorithm also keeps track of who&amp;rsquo;s turn it is, all possible moves given the current state of the board, and whether or not someone has won the game.
+Completed as part of Harvard&amp;rsquo;s AI with programming course.</description>
+    </item>
+    
+    <item>
+      <title>Q. Minesweeper AI</title>
+      <link>https://greent3.github.io/projects/creations/992_minesweeper/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://greent3.github.io/projects/creations/992_minesweeper/</guid>
+      <description>An AI capable of successfully finishing a game of minesweeper
+Logic is stored in the form of sentences, and the program uses a recursive algorithm to make inferences based on new knowledge obtained by clicking unexplored cells.
+The bot does not always win as sometimes there are no safe cells to click, and at that point the bot will have to make a random move.
+Completed as part of Harvard&amp;rsquo;s AI programming with python course.</description>
+    </item>
+    
+  </channel>
+</rss>

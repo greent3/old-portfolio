@@ -43,6 +43,6 @@ In my free time, I like to read educational books, speculate in equities, and bi
 &nbsp;   
 
  "It reminds me of the story of the guy sitting with firewood in his arms on a cold freezing night, and he is yelling at the pot-bellied stove, 'When you give me some heat, then I’ll put some wood in.' &nbsp;  
-  When it comes to life and business, all one needs to remember is first to give what you want and it will come back to you in droves." -Robert Kiyosaki
+  When it comes to life and business, all one needs to remember is first to give what you want, and it will come back to you in droves." -Robert Kiyosaki
 
 

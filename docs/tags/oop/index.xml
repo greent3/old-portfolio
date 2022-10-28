@@ -16,5 +16,15 @@
 Video series linked below!</description>
     </item>
     
+    <item>
+      <title>S. Calculate My Outs (Texas Hold&#39;em)</title>
+      <link>https://greent3.github.io/projects/creations/994_calculate_my_outs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://greent3.github.io/projects/creations/994_calculate_my_outs/</guid>
+      <description>An &amp;lsquo;out&amp;rsquo; is a card that you have yet to see and can improve your hand in Texas Hold&amp;rsquo;em. This app shuffles a deck, gives every player at the table a hand of 2 cards, deals a flop, and then uses the cards in the flop and your hand to determine which cards are necessary to increase the value of your hand.
+Note: I wrote this program while quarantined in my dorm at University.</description>
+    </item>
+    
   </channel>
 </rss>

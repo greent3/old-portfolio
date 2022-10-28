@@ -2,7 +2,7 @@
     {
         "school":"University of Hawai'i",
         "degree":"BA Computer Science & Chinese",
-        "major":"\n- Deans List (x3) \n- **Computer Science**: Java, C++, SQL, programming basics, data structures, program structure, OOP, unit testing, algorithms and runtime, discrete math, and calculus \n- **Chinese**: Functional fluency in Mandarin + well-rounded understanding of Chinese Culture",
+        "major":"\n- Dean's List (x3) \n- **Computer Science**: Java, C++, SQL, programming basics, data structures, program structure, OOP, unit testing, algorithms and runtime, discrete math, and calculus \n- **Chinese**: Functional fluency in Mandarin + well-rounded understanding of Chinese Culture",
         "notes":"",
         "range":"2022"
     },
@@ -13,21 +13,21 @@
         "range":"2017"
     },
     {
-        "school":"Harvard Ex Courses",
-        "degree":"",
-        "major":"\n- Harvard's Intro to AI with Python \n- Google's TinyML \n- Linux Command Line Interface",
-        "range":""
-    },
-    {
         "school":"Miscellaneous Academia",
         "degree":"",
         "major":"\n- Airman Leadership School, Patrick AFB, FL \n- USAF EMT School (Top 10% of graduating class)",
+        "range":""
+    },    
+    {
+        "school":"Online Courses",
+        "degree":"",
+        "major":"\n- Harvard's Intro to AI with Python \n- Google's TinyML \n- Linux Command Line Interface \n- CryptoZombies and Ethernaut",
         "range":""
     },
     {
       "school":"Educational Reads",
       "degree":"",
-      "major":" \n-  AI Superpowers   \n- Algorithms To Live By     \n- Animal Farm  \n- Antifragile \n- Atomic Habits \n- Benjamin Franklin (Biography) \n- But How Do It Know? \n- Buy, Rent, Rehab, Refinance, Repeat \n- Culture Hacks \n-  Dark Pools \n- Economics in One Lesson \n- Ego is The Enemy \n- Elon Musk (Biography) \n- Factfullness \n- Grokking Simplicity (Functional Programming) \n- High Performance C++ \n- Limitless \n- Python Data Cleaning Cookbook \n- Raising Private Capital \n- Reminisinces of a Stock Operator \n- Rich Dad Poor Dad \n- Ten Pillars of Wealth \n- The 52 week low \n- The Acquirers Multiple \n- The Alchemist \n- The Art of War \n- The Black Swan \n- The Creature of Jekyll Island \n- The Energy Bus \n- The Happiness Advantage \n- The Intelligent Investor \n- The Magic of Thinking Big \n- The Practicing Stoic \n- The Prince \n- The Quick and Easy Way to Effective Speaking \n- Zero to One",
+      "major":" \n-  AI Superpowers   \n- Algorithms To Live By     \n- Animal Farm  \n- Antifragile \n- Atomic Habits \n- Benjamin Franklin (Biography) \n- But How Do It Know? \n- Buy, Rent, Rehab, Refinance, Repeat \n- Culture Hacks \n-  Dark Pools \n- Economics in One Lesson \n- Ego is The Enemy \n- Elon Musk (Biography) \n- Factfulness \n- Grokking Simplicity (Functional Programming) \n- High Performance C++ \n- Limitless \n- Python Data Cleaning Cookbook \n- Raising Private Capital \n- Reminiscences of a Stock Operator \n- Rich Dad Poor Dad \n- Ten Pillars of Wealth \n- The 52 week low \n- The Acquirers Multiple \n- The Alchemist \n- The Art of War \n- The Black Swan \n- The Creature of Jekyll Island \n- The Energy Bus \n- The Happiness Advantage \n- The Intelligent Investor \n- The Magic of Thinking Big \n- The Practicing Stoic \n- The Prince \n- The Quick and Easy Way to Effective Speaking \n- Zero to One",
       "range":"2019 - Present"
     }
 
