@@ -17,7 +17,7 @@ outputs:
 &nbsp;  
 &nbsp;   
 
-#### Backend developer, ML enthusiast, and expert communicator with years of leadership experience.  
+#### Python developer, ML enthusiast, and expert communicator with years of leadership experience.  
 
 \
 Are you looking for someone who can hop between server-side development and machine learning?  
