@@ -23,7 +23,9 @@ Do graduate degree holders use caffeine more often than less educated people? Wh
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://greent3.github.io/projects/creations/2_e-learning/</guid>
-      <description>Coming Soon!</description>
+      <description>Back-end of an online learning platform built using Python Django
+Some features of the project:
+A content management system (CMS) model inheritance class based views and mixins formsets and model formsets groups and permissions dynamic content caching (Memcache &amp;amp; redis) A callable RESTful API to interact with course data This project was completed as a tutorial outlined in Packt&amp;rsquo;s Django 4 By Example, and is not my original work</description>
     </item>
     
     <item>
