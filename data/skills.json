@@ -1,18 +1,17 @@
 [
   {
       "grouping":"Languages and Tools",
-      "skills":[ "Python", "C++", "Java", "SQL", "mysql", "SQLite", "Solidity", "Django", "Postman", "git", "ORMs", "Excel (pivot tables)"]
+      "skills":[ "Python", "AWS", "C++", "Java", "SQL", "mysql", "SQLite", "Solidity", "Django", "Postman", "git", "Docker", "SQL Alchemy ORM", "Excel (pivot tables)"]
   },{
       "grouping":"Concepts",
-      "skills":["RESTful APIs", "S.O.L.I.D. OOP", "Data Structures", "Algorithms (searching, sorting, recursion, etc.)", "Database Architecture", "Web Scraping", "Data Cleaning & Wrangling", "Selecting & Evaluating ML Models", "Calculus & Statistics fundamentals"
-]
+      "skills":["RESTful APIs", "S.O.L.I.D. OOP", "Data Structures", "Algorithms (searching, sorting, recursion, etc.)", "Database Architecture", "Web Scraping", "Data Cleaning & Wrangling", "Selecting & Evaluating ML Models", "Calculus & Statistics fundamentals", "Unit Testing", "D.R.Y.", "Runtime Complexity", "Linux Command Line"]
   },
   {
       "grouping":"Soft Skills",
-      "skills":["Public Speaking", "Writing", "Communicating complex concepts in a simple way", "Leadership",  "Customer Service",  "Optimism :)"]
+      "skills":["Public Speaking", "Writing", "Communicating complex concepts in a simple way", "Leadership",  "Customer Service"]
   },
   {
       "grouping":"Spoken Languages",
-      "skills":["English (Native)", "Mandarin (Functional Fluency)"]
+      "skills":["English (Native)", "Mandarin (Global Seal of Biliteracy: Functional Fluency)"]
   }
 ]

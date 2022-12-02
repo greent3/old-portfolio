@@ -1,5 +1,5 @@
 {
-    "title":"Q. Minesweeper AI",
+    "title":"K. Minesweeper AI",
     "link":"https://youtu.be/SVRUaTnilDE",
     "image":"/img/minesweeper.jpg",
     "description":"An AI capable of finishing a game of minesweeper",

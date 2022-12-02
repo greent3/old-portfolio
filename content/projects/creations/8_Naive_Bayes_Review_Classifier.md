@@ -1,5 +1,5 @@
 {
-    "title":"H. Whisky Review Sentiment Classifier",
+    "title":"G. Whisky Review Sentiment Classifier",
     "link":"",
     "image":"/img/hibiki.jpg",
     "description":"Classifying Japanese Whisky reviews as positive or negative using TFIDF & Naive Bayes",

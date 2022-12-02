@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://greent3.github.io/tags/c++/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>F. C&#43;&#43; Customer Database Using Files</title>
+      <title>D. C&#43;&#43; Customer Database Using Files</title>
       <link>https://greent3.github.io/projects/creations/6_customer_record_database/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -18,7 +18,7 @@ The records within the list are written to a file upon exiting the application, 
     </item>
     
     <item>
-      <title>K. C&#43;&#43; SOLID Video Series</title>
+      <title>E. C&#43;&#43; SOLID Video Series</title>
       <link>https://greent3.github.io/projects/creations/94_c&#43;&#43;_video_series/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       

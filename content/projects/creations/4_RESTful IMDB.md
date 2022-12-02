@@ -1,5 +1,5 @@
 {
-    "title":"D. RESTful Movie Database API w/ extensive unit testing",
+    "title":"B. RESTful Movie Database API w/ extensive unit testing",
     "link":"",
     "image":"/img/movies.jpg",
     "description":"A django-implemented movie database similar to IMDB with different permissions for unauth, admin, and authenticated users. The app also uses validators, pagination, and throttling. I felt the unit testing in the tutorial was lacking, so I implemented extensive unit tests.",

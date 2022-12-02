@@ -1,5 +1,5 @@
 {
-    "title":"L. Detective Conan Web Scraper",
+    "title":"Q. Detective Conan Web Scraper",
     "link":"https://github.com/greent3/Detective-Conan-Web-Scraper/blob/main/Web%20Scraper%20(Detective%20Conan).ipynb",
     "image":"/img/dec_conan.jfif",
     "description":"Compiling a list of Detective Conan 'TV Originals' (Episodes that were not in the manga) using Pandas' web scraping functionality and Detective Conan Wiki.",

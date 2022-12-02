@@ -7,18 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://greent3.github.io/tags/ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>P. TicTacToe AI</title>
-      <link>https://greent3.github.io/projects/creations/991_tic_tac_toe/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://greent3.github.io/projects/creations/991_tic_tac_toe/</guid>
-      <description>TicTacToe AI that uses a recursive minimax algorithm to determine the best possible move to make based on the best possible move their opponent (me) can play on the next turn.
-Our algorithm also keeps track of who&amp;rsquo;s turn it is, all possible moves given the current state of the board, and whether or not someone has won the game.
-Completed as part of Harvard&amp;rsquo;s AI with programming course.</description>
-    </item>
-    
-    <item>
-      <title>Q. Minesweeper AI</title>
+      <title>K. Minesweeper AI</title>
       <link>https://greent3.github.io/projects/creations/992_minesweeper/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -30,7 +19,7 @@ Completed as part of Harvard&amp;rsquo;s AI programming with python course.</des
     </item>
     
     <item>
-      <title>R. Constraint Satisfication Crossword Solver</title>
+      <title>O. Constraint Satisfication Crossword Solver</title>
       <link>https://greent3.github.io/projects/creations/993_ai_crossword_constraint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -38,6 +27,17 @@ Completed as part of Harvard&amp;rsquo;s AI programming with python course.</des
       <description>Brute force solving a crossword puzzle with unary constraints (length of words) and binary constraints (overlapping letters between words).
 The AI uses domains to manage possible words that can be used in the puzzle. When the program reaches a point where a constraint is no longer satisfied, it backtracks and removes unusable words from the domain.
 Completed as part of Harvard&amp;rsquo;s AI programming with Python course.</description>
+    </item>
+    
+    <item>
+      <title>P. TicTacToe AI</title>
+      <link>https://greent3.github.io/projects/creations/991_tic_tac_toe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://greent3.github.io/projects/creations/991_tic_tac_toe/</guid>
+      <description>TicTacToe AI that uses a recursive minimax algorithm to determine the best possible move to make based on the best possible move their opponent (me) can play on the next turn.
+Our algorithm also keeps track of who&amp;rsquo;s turn it is, all possible moves given the current state of the board, and whether or not someone has won the game.
+Completed as part of Harvard&amp;rsquo;s AI with programming course.</description>
     </item>
     
   </channel>

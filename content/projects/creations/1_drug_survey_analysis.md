@@ -1,5 +1,5 @@
 {
-  "title": "A. Drug Use by Education",
+  "title": "L. Drug Use by Education",
   "date": "",
   "image": "/img/drugs.jpg",
   "link": "https://github.com/greent3/Drug-Usage-SQL-EDA/blob/main/Drug-Usage-EDA.sql",

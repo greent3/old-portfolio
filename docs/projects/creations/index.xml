@@ -8,17 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 07 Jan 2020 15:00:28 +0000</lastBuildDate><atom:link href="https://greent3.github.io/projects/creations/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>A. Drug Use by Education</title>
-      <link>https://greent3.github.io/projects/creations/1_drug_survey_analysis/</link>
+      <title>1. ML App with Django Backend - Deployed using AWS</title>
+      <link>https://greent3.github.io/projects/creations/0_best_project_yet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://greent3.github.io/projects/creations/1_drug_survey_analysis/</guid>
-      <description>With SQL queries, we&amp;rsquo;re able to answer questions like:
-Do graduate degree holders use caffeine more often than less educated people? Which illegal drugs are becoming more popular over the decades? Are less educated people more likely to lie about (overreport) drug usage? Do senior citizens smoke &amp;amp; drink less than young adults? </description>
+      <guid>https://greent3.github.io/projects/creations/0_best_project_yet/</guid>
+      <description>Coming Soon!</description>
     </item>
     
     <item>
-      <title>B. Django E-Learning Platform</title>
+      <title>A. Django E-Learning Platform</title>
       <link>https://greent3.github.io/projects/creations/2_e-learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -26,6 +25,15 @@ Do graduate degree holders use caffeine more often than less educated people? Wh
       <description>Back-end of an online learning platform built using Python Django
 Some features of the project:
 A content management system (CMS) model inheritance class based views and mixins formsets and model formsets groups and permissions dynamic content caching (Memcache &amp;amp; redis) A callable RESTful API to interact with course data This project was completed as a tutorial outlined in Packt&amp;rsquo;s Django 4 By Example, and is not my original work</description>
+    </item>
+    
+    <item>
+      <title>B. RESTful Movie Database API w/ extensive unit testing</title>
+      <link>https://greent3.github.io/projects/creations/4_restful-imdb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://greent3.github.io/projects/creations/4_restful-imdb/</guid>
+      <description>The project is divided into 2 apps. Movielist app: handles all movie database functionality (adding movies to the database, querying lists of movies, creating/viewing reviews, etc.) along with their associated permissions. User app: handles user functionality (login, register, etc.) The unit testing covers all intented functionality for each level of authentication. The project also employs validators, pagination, and throttling.</description>
     </item>
     
     <item>
@@ -40,26 +48,7 @@ My role consisted of loading the data (images) into the program, resizing the im
     </item>
     
     <item>
-      <title>D. RESTful Movie Database API w/ extensive unit testing</title>
-      <link>https://greent3.github.io/projects/creations/4_restful-imdb/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://greent3.github.io/projects/creations/4_restful-imdb/</guid>
-      <description>The project is divided into 2 apps. Movielist app: handles all movie database functionality (adding movies to the database, querying lists of movies, creating/viewing reviews, etc.) along with their associated permissions. User app: handles user functionality (login, register, etc.) The unit testing covers all intented functionality for each level of authentication. The project also employs validators, pagination, and throttling.</description>
-    </item>
-    
-    <item>
-      <title>E. Investigating User Decline</title>
-      <link>https://greent3.github.io/projects/creations/5_analyzing_user_decrease/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://greent3.github.io/projects/creations/5_analyzing_user_decrease/</guid>
-      <description>SITUATION: You show up to work one morning and the head of the product team asks you what you think about the latest activity on the user engagement dashboards. You fire them up and notice a decline in users over the past 2 months.
-ACTION: Using focused SQL queries to gather data about user events over the past couple months and Excel for data visualization, I was able to provide the following conclusions and recommendations.</description>
-    </item>
-    
-    <item>
-      <title>F. C&#43;&#43; Customer Database Using Files</title>
+      <title>D. C&#43;&#43; Customer Database Using Files</title>
       <link>https://greent3.github.io/projects/creations/6_customer_record_database/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -70,7 +59,17 @@ The records within the list are written to a file upon exiting the application, 
     </item>
     
     <item>
-      <title>G. Ecommerce Purchase Predictor</title>
+      <title>E. C&#43;&#43; SOLID Video Series</title>
+      <link>https://greent3.github.io/projects/creations/94_c&#43;&#43;_video_series/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://greent3.github.io/projects/creations/94_c&#43;&#43;_video_series/</guid>
+      <description>Providing simple, yet comprehensive examples of Bob Martin&amp;rsquo;s SOLID principles, using C++.
+Video series linked below!</description>
+    </item>
+    
+    <item>
+      <title>F. Ecommerce Purchase Predictor</title>
       <link>https://greent3.github.io/projects/creations/7_knn_purchase_predictor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -80,7 +79,7 @@ loads in that data reformats it into the correct data type splits it into traini
     </item>
     
     <item>
-      <title>H. Whisky Review Sentiment Classifier</title>
+      <title>G. Whisky Review Sentiment Classifier</title>
       <link>https://greent3.github.io/projects/creations/8_naive_bayes_review_classifier/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -88,6 +87,16 @@ loads in that data reformats it into the correct data type splits it into traini
       <description>Classifying Japanese Whisky reviews using TFIDF/Naive Bayes
 Given a CSV file with 200 Japanese whisky reviews labeled &amp;ldquo;positive&amp;rdquo; or &amp;ldquo;negative&amp;rdquo;, and 900 unlabeled reviews, let&amp;rsquo;s train a Naive Bayes model on TFIDF data so we can predict the labels for the remaining 900.
 Note: The dataset was not that great (small, lots of typos, many negative reviews with positive sentiment words &amp;ldquo;ex: not that good&amp;rdquo;), but it still served as good practice for cleaning data, NB, vectorizers, working with dataframes, and even a little bit of SQL at the end.</description>
+    </item>
+    
+    <item>
+      <title>H. Investigating User Decline</title>
+      <link>https://greent3.github.io/projects/creations/5_analyzing_user_decrease/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://greent3.github.io/projects/creations/5_analyzing_user_decrease/</guid>
+      <description>SITUATION: You show up to work one morning and the head of the product team asks you what you think about the latest activity on the user engagement dashboards. You fire them up and notice a decline in users over the past 2 months.
+ACTION: Using focused SQL queries to gather data about user events over the past couple months and Excel for data visualization, I was able to provide the following conclusions and recommendations.</description>
     </item>
     
     <item>
@@ -110,22 +119,25 @@ Video linked below!</description>
     </item>
     
     <item>
-      <title>K. C&#43;&#43; SOLID Video Series</title>
-      <link>https://greent3.github.io/projects/creations/94_c&#43;&#43;_video_series/</link>
+      <title>K. Minesweeper AI</title>
+      <link>https://greent3.github.io/projects/creations/992_minesweeper/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://greent3.github.io/projects/creations/94_c&#43;&#43;_video_series/</guid>
-      <description>Providing simple, yet comprehensive examples of Bob Martin&amp;rsquo;s SOLID principles, using C++.
-Video series linked below!</description>
+      <guid>https://greent3.github.io/projects/creations/992_minesweeper/</guid>
+      <description>An AI capable of successfully finishing a game of minesweeper
+Logic is stored in the form of sentences, and the program uses a recursive algorithm to make inferences based on new knowledge obtained by clicking unexplored cells.
+The bot does not always win as sometimes there are no safe cells to click, and at that point the bot will have to make a random move.
+Completed as part of Harvard&amp;rsquo;s AI programming with python course.</description>
     </item>
     
     <item>
-      <title>L. Detective Conan Web Scraper</title>
-      <link>https://greent3.github.io/projects/creations/95_scraping_detective_conan/</link>
+      <title>L. Drug Use by Education</title>
+      <link>https://greent3.github.io/projects/creations/1_drug_survey_analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://greent3.github.io/projects/creations/95_scraping_detective_conan/</guid>
-      <description>Yay! We convinced our buddy (Doug) to watch Detective Conan! However, he already read the manga and doesn&amp;rsquo;t want to watch episodes that he&amp;rsquo;s already read. No worries! Let&amp;rsquo;s use the data at Detective Conan Wiki to compile a list of episodes that weren&amp;rsquo;t in the manga.</description>
+      <guid>https://greent3.github.io/projects/creations/1_drug_survey_analysis/</guid>
+      <description>With SQL queries, we&amp;rsquo;re able to answer questions like:
+Do graduate degree holders use caffeine more often than less educated people? Which illegal drugs are becoming more popular over the decades? Are less educated people more likely to lie about (overreport) drug usage? Do senior citizens smoke &amp;amp; drink less than young adults? </description>
     </item>
     
     <item>
@@ -138,15 +150,14 @@ Video series linked below!</description>
     </item>
     
     <item>
-      <title>O. React Pomodoro Timer</title>
-      <link>https://greent3.github.io/projects/creations/99_25&#43;5_clock/</link>
+      <title>O. Constraint Satisfication Crossword Solver</title>
+      <link>https://greent3.github.io/projects/creations/993_ai_crossword_constraint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://greent3.github.io/projects/creations/99_25&#43;5_clock/</guid>
-      <description>A timer with customizable parameters for work time and break time.
-Implemented in 3 ways: as a single page stateful REACT app, a stateful app divided into parent &amp;amp; child classes, and an app made of functional components using hooks.
-What Is the Pomodoro Technique? Using this method, you break your workday into 25-minute chunks separated by five-minute breaks. These intervals are referred to as pomodoros.
-Every time the clock runs out, the timer automatically resets and switches to work/break session.</description>
+      <guid>https://greent3.github.io/projects/creations/993_ai_crossword_constraint/</guid>
+      <description>Brute force solving a crossword puzzle with unary constraints (length of words) and binary constraints (overlapping letters between words).
+The AI uses domains to manage possible words that can be used in the puzzle. When the program reaches a point where a constraint is no longer satisfied, it backtracks and removes unusable words from the domain.
+Completed as part of Harvard&amp;rsquo;s AI programming with Python course.</description>
     </item>
     
     <item>
@@ -161,26 +172,24 @@ Completed as part of Harvard&amp;rsquo;s AI with programming course.</descriptio
     </item>
     
     <item>
-      <title>Q. Minesweeper AI</title>
-      <link>https://greent3.github.io/projects/creations/992_minesweeper/</link>
+      <title>Q. Detective Conan Web Scraper</title>
+      <link>https://greent3.github.io/projects/creations/95_scraping_detective_conan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://greent3.github.io/projects/creations/992_minesweeper/</guid>
-      <description>An AI capable of successfully finishing a game of minesweeper
-Logic is stored in the form of sentences, and the program uses a recursive algorithm to make inferences based on new knowledge obtained by clicking unexplored cells.
-The bot does not always win as sometimes there are no safe cells to click, and at that point the bot will have to make a random move.
-Completed as part of Harvard&amp;rsquo;s AI programming with python course.</description>
+      <guid>https://greent3.github.io/projects/creations/95_scraping_detective_conan/</guid>
+      <description>Yay! We convinced our buddy (Doug) to watch Detective Conan! However, he already read the manga and doesn&amp;rsquo;t want to watch episodes that he&amp;rsquo;s already read. No worries! Let&amp;rsquo;s use the data at Detective Conan Wiki to compile a list of episodes that weren&amp;rsquo;t in the manga.</description>
     </item>
     
     <item>
-      <title>R. Constraint Satisfication Crossword Solver</title>
-      <link>https://greent3.github.io/projects/creations/993_ai_crossword_constraint/</link>
+      <title>R. React Pomodoro Timer</title>
+      <link>https://greent3.github.io/projects/creations/99_25&#43;5_clock/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://greent3.github.io/projects/creations/993_ai_crossword_constraint/</guid>
-      <description>Brute force solving a crossword puzzle with unary constraints (length of words) and binary constraints (overlapping letters between words).
-The AI uses domains to manage possible words that can be used in the puzzle. When the program reaches a point where a constraint is no longer satisfied, it backtracks and removes unusable words from the domain.
-Completed as part of Harvard&amp;rsquo;s AI programming with Python course.</description>
+      <guid>https://greent3.github.io/projects/creations/99_25&#43;5_clock/</guid>
+      <description>A timer with customizable parameters for work time and break time.
+Implemented in 3 ways: as a single page stateful REACT app, a stateful app divided into parent &amp;amp; child classes, and an app made of functional components using hooks.
+What Is the Pomodoro Technique? Using this method, you break your workday into 25-minute chunks separated by five-minute breaks. These intervals are referred to as pomodoros.
+Every time the clock runs out, the timer automatically resets and switches to work/break session.</description>
     </item>
     
     <item>
