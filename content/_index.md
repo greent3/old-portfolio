@@ -17,20 +17,19 @@ outputs:
 &nbsp;  
 &nbsp;   
 
-#### Software Engineer, ML enthusiast, and expert communicator with years of leadership experience.  
+#### Software Engineer, ML enthusiast, and experienced communicator with years of leadership experience.  
 
 \
 Are you looking for someone who can hop between server-side development and machine learning?  
 Perhaps someone with a track record of academic success, accountability, and strong interpersonal skills?  
 
 Strongest in Python, I love the art of turning code into a readable, reusable piece of art.  
-I'm also strong in C++, have dabbled in Java, React, Solidity, and am a Certified AWS Cloud Practicioner!  
-
+I'm also strong in C++, have done coursework in Java, React, Solidity, and am a Certified AWS Cloud Practitioner!  
 
 In my free time, I like to read educational books, speculate in equities, and binge Korean Dramas.  
+[View cover letter](https://drive.google.com/file/d/1q_0TE3jHMVS7QEeaDEQRYLQM6IIeoTcY/view?usp=sharing)
 
 
-&nbsp;  
 &nbsp; 
 &nbsp;  
 &nbsp;   
