@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://greent3.github.io/tags/minimax/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>K. Minesweeper AI</title>
+      <title>Python ML: Minesweeper AI</title>
       <link>https://greent3.github.io/projects/creations/992_minesweeper/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -19,7 +19,7 @@ Completed as part of Harvard&amp;rsquo;s AI programming with python course.</des
     </item>
     
     <item>
-      <title>P. TicTacToe AI</title>
+      <title>Python ML: TicTacToe AI</title>
       <link>https://greent3.github.io/projects/creations/991_tic_tac_toe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       

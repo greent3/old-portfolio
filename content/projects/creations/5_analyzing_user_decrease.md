@@ -1,5 +1,5 @@
 {
-    "title":"H. Investigating User Decline",
+    "title":"SQL/Excel: Investigating User Decline",
     "link":"https://github.com/greent3/Investigating_User_Decline/blob/main/Yammer%20Investigation.ipynb",
     "image":"/img/whats_this.png",
     "description":"SITUATION: You show up to work one morning and the head of the product team asks you what you think about the latest activity on the user engagement dashboards. You fire them up, and notice a decline in users over the past 2 months. \n ACTION: Using focused SQL queries to gather data about user events over the past month and Excel for data visualization, I was able to attribute the decline in users to the following: ...",

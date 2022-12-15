@@ -1,5 +1,5 @@
 {
-    "title":"P. TicTacToe AI",
+    "title":"Python ML: TicTacToe AI",
     "link":"https://youtu.be/hwUXl_98ngc",
     "image":"/img/tictactoe.png",
     "description":"TicTacToe AI that uses a recursive minimax algorithm to determine the best possible move to make based on the best possible move their opponent (me) can play on the next turn.",

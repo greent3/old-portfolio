@@ -1,5 +1,5 @@
 {
-    "title":"J. Golden Cross Trading Algo (video)",
+    "title":"Python: Trading Algo (video) Golden Cross Algorithm",
     "link":"https://youtu.be/Xu7L5ynj0hQ",
     "image":"/img/stocks.jfif",
     "description":"Buys or sells an equity in anticipation of the 5 period SMA crossing the 20 period SMA and employs a trailing stoploss. Resolution, SMA periods, stoplosses, and order entry/exit points are all optimizable.",

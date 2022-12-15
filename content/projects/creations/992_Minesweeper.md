@@ -1,5 +1,5 @@
 {
-    "title":"K. Minesweeper AI",
+    "title":"Python ML: Minesweeper AI",
     "link":"https://youtu.be/SVRUaTnilDE",
     "image":"/img/minesweeper.jpg",
     "description":"An AI capable of finishing a game of minesweeper",

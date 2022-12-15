@@ -1,5 +1,5 @@
 {
-    "title":"O. Constraint Satisfication Crossword Solver",
+    "title":"Python ML: Constraint Satisfication Crossword Solver",
     "link":"https://www.youtube.com/watch?v=864kTdvNl_I",
     "image":"/img/crossword.webp",
     "description":"Building an AI to satisfy the binary and unary constraints of a crossword puzzle",

@@ -1,5 +1,5 @@
 {
-    "title":"C. TensorFlow Road Sign Classifier",
+    "title":"Python ML: TensorFlow Road Sign Classifier",
     "link":"https://github.com/greent3/Harvards_AI_Programming_W_Python/blob/main/Chapter_5_Neural_Networks/traffic/traffic/traffic.py",
     "image":"img/roadsign.jfif",
     "description":"I used TensorFlow and the German Traffic Sign Recognition Benchmark (GTSRB) dataset to build a neural network that effectively classifies images of road signs.",

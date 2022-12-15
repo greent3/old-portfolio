@@ -1,5 +1,5 @@
 {
-    "title":"F. Ecommerce Purchase Predictor",
+    "title":"Python ML: Ecommerce Purchase Predictor",
     "link":"https://github.com/greent3/Harvards_AI_Programming_W_Python/blob/main/Chapter_4_Learning/shopping/shopping/shopping.py",
     "image":"/img/ecommerce.png",
     "description":"Given information about a user — how many pages they’ve visited, whether they’re shopping on a weekend, what web browser they’re using, etc. — the classifier will predict whether or not the user will make a purchase.",

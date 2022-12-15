@@ -74,47 +74,16 @@ First it encrypts all communication that flies across the web. This prevents cur
     </item>
     
     <item>
-      <title>1. ML App with Django Backend - Deployed using AWS</title>
+      <title>AWS/Python: portfolio of my past investments</title>
       <link>https://greent3.github.io/projects/creations/0_best_project_yet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://greent3.github.io/projects/creations/0_best_project_yet/</guid>
-      <description>Coming Soon!</description>
+      <description>Django app to keep track of my profits &amp;amp; losses using a NoSQL database. Hosted on AWS. Uses AWS Lambda and EventBridge to update stock prices of current positions.</description>
     </item>
     
     <item>
-      <title>A. Django E-Learning Platform</title>
-      <link>https://greent3.github.io/projects/creations/2_e-learning/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://greent3.github.io/projects/creations/2_e-learning/</guid>
-      <description>Back-end of an online learning platform built using Python Django
-Some features of the project:
-A content management system (CMS) model inheritance class based views and mixins formsets and model formsets groups and permissions dynamic content caching (Memcache &amp;amp; redis) A callable RESTful API to interact with course data This project was completed as a tutorial outlined in Packt&amp;rsquo;s Django 4 By Example, and is not my original work</description>
-    </item>
-    
-    <item>
-      <title>B. RESTful Movie Database API w/ extensive unit testing</title>
-      <link>https://greent3.github.io/projects/creations/4_restful-imdb/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://greent3.github.io/projects/creations/4_restful-imdb/</guid>
-      <description>The project is divided into 2 apps. Movielist app: handles all movie database functionality (adding movies to the database, querying lists of movies, creating/viewing reviews, etc.) along with their associated permissions. User app: handles user functionality (login, register, etc.) The unit testing covers all intented functionality for each level of authentication. The project also employs validators, pagination, and throttling.</description>
-    </item>
-    
-    <item>
-      <title>C. TensorFlow Road Sign Classifier</title>
-      <link>https://greent3.github.io/projects/creations/3_road_sign_classifier/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://greent3.github.io/projects/creations/3_road_sign_classifier/</guid>
-      <description>As research continues in the development of self-driving cars, one of the key challenges is allowing these cars to develop an understanding of their environment from digital images.
-In my traffic-sign classification project, I used TensorFlow and the German Traffic Sign Recognition Benchmark dataset to build a neural network that puts images of road signs into different classifications.
-My role consisted of loading the data (images) into the program, resizing the images, and designing/implementing the neural network.</description>
-    </item>
-    
-    <item>
-      <title>D. C&#43;&#43; Customer Database Using Files</title>
+      <title>C&#43;&#43;: Customer Database Implemented Using Files</title>
       <link>https://greent3.github.io/projects/creations/6_customer_record_database/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -125,7 +94,7 @@ The records within the list are written to a file upon exiting the application, 
     </item>
     
     <item>
-      <title>E. C&#43;&#43; SOLID Video Series</title>
+      <title>C&#43;&#43;: SOLID OOP Video Series</title>
       <link>https://greent3.github.io/projects/creations/94_c&#43;&#43;_video_series/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -135,7 +104,79 @@ Video series linked below!</description>
     </item>
     
     <item>
-      <title>F. Ecommerce Purchase Predictor</title>
+      <title>Java: Calculate My Outs (Texas Hold&#39;em)</title>
+      <link>https://greent3.github.io/projects/creations/994_calculate_my_outs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://greent3.github.io/projects/creations/994_calculate_my_outs/</guid>
+      <description>An &amp;lsquo;out&amp;rsquo; is a card that you have yet to see and can improve your hand in Texas Hold&amp;rsquo;em. This app shuffles a deck, gives every player at the table a hand of 2 cards, deals a flop, and then uses the cards in the flop and your hand to determine which cards are necessary to increase the value of your hand.
+Note: I wrote this program while quarantined in my dorm at University.</description>
+    </item>
+    
+    <item>
+      <title>Java: Watch out for Old Man Herbert!</title>
+      <link>https://greent3.github.io/projects/creations/995_herbert/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://greent3.github.io/projects/creations/995_herbert/</guid>
+      <description>A playable game completed as a university project with the following specifications: The player&amp;rsquo;s health decreases when it moves
+The player&amp;rsquo;s health can be rejuvinated when within proximity to items (sodas and doughnuts)
+The player&amp;rsquo;s health decreaes when within proximity to enemies (old man herbert)
+The game will end when the player runs out of health</description>
+    </item>
+    
+    <item>
+      <title>Python Django: Calorie counter web-app (backend) w/ REST API using AWS RDBMS</title>
+      <link>https://greent3.github.io/projects/creations/calorie_counter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://greent3.github.io/projects/creations/calorie_counter/</guid>
+      <description>Coming Soon! Backend of a Django app where users can:
+Create accounts Track their calorie intake Add items to public list of food items Track see what they&amp;rsquo;ve eaten by day App to be hosted on AWS and use RDBMS.</description>
+    </item>
+    
+    <item>
+      <title>Python Django: E-Learning Platform</title>
+      <link>https://greent3.github.io/projects/creations/2_e-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://greent3.github.io/projects/creations/2_e-learning/</guid>
+      <description>Back-end of an online learning platform built using Python Django
+Some features of the project:
+A content management system (CMS) model inheritance class based views and mixins formsets and model formsets groups and permissions dynamic content caching (Memcache &amp;amp; redis) A callable RESTful API to interact with course data This project was completed as a tutorial outlined in Packt&amp;rsquo;s Django 4 By Example, and is not my original work</description>
+    </item>
+    
+    <item>
+      <title>Python Django: RESTful Movie Database API w/ extensive unit testing</title>
+      <link>https://greent3.github.io/projects/creations/4_restful-imdb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://greent3.github.io/projects/creations/4_restful-imdb/</guid>
+      <description>The project is divided into 2 apps. Movielist app: handles all movie database functionality (adding movies to the database, querying lists of movies, creating/viewing reviews, etc.) along with their associated permissions. User app: handles user functionality (login, register, etc.) The unit testing covers all intented functionality for each level of authentication. The project also employs validators, pagination, and throttling.</description>
+    </item>
+    
+    <item>
+      <title>Python ML: Car Price Predictor</title>
+      <link>https://greent3.github.io/projects/creations/9_car_price_predictor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://greent3.github.io/projects/creations/9_car_price_predictor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python ML: Constraint Satisfication Crossword Solver</title>
+      <link>https://greent3.github.io/projects/creations/993_ai_crossword_constraint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://greent3.github.io/projects/creations/993_ai_crossword_constraint/</guid>
+      <description>Brute force solving a crossword puzzle with unary constraints (length of words) and binary constraints (overlapping letters between words).
+The AI uses domains to manage possible words that can be used in the puzzle. When the program reaches a point where a constraint is no longer satisfied, it backtracks and removes unusable words from the domain.
+Completed as part of Harvard&amp;rsquo;s AI programming with Python course.</description>
+    </item>
+    
+    <item>
+      <title>Python ML: Ecommerce Purchase Predictor</title>
       <link>https://greent3.github.io/projects/creations/7_knn_purchase_predictor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -145,47 +186,7 @@ loads in that data reformats it into the correct data type splits it into traini
     </item>
     
     <item>
-      <title>G. Whisky Review Sentiment Classifier</title>
-      <link>https://greent3.github.io/projects/creations/8_naive_bayes_review_classifier/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://greent3.github.io/projects/creations/8_naive_bayes_review_classifier/</guid>
-      <description>Classifying Japanese Whisky reviews using TFIDF/Naive Bayes
-Given a CSV file with 200 Japanese whisky reviews labeled &amp;ldquo;positive&amp;rdquo; or &amp;ldquo;negative&amp;rdquo;, and 900 unlabeled reviews, let&amp;rsquo;s train a Naive Bayes model on TFIDF data so we can predict the labels for the remaining 900.
-Note: The dataset was not that great (small, lots of typos, many negative reviews with positive sentiment words &amp;ldquo;ex: not that good&amp;rdquo;), but it still served as good practice for cleaning data, NB, vectorizers, working with dataframes, and even a little bit of SQL at the end.</description>
-    </item>
-    
-    <item>
-      <title>H. Investigating User Decline</title>
-      <link>https://greent3.github.io/projects/creations/5_analyzing_user_decrease/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://greent3.github.io/projects/creations/5_analyzing_user_decrease/</guid>
-      <description>SITUATION: You show up to work one morning and the head of the product team asks you what you think about the latest activity on the user engagement dashboards. You fire them up and notice a decline in users over the past 2 months.
-ACTION: Using focused SQL queries to gather data about user events over the past couple months and Excel for data visualization, I was able to provide the following conclusions and recommendations.</description>
-    </item>
-    
-    <item>
-      <title>I. Car Price Predictor</title>
-      <link>https://greent3.github.io/projects/creations/9_car_price_predictor/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://greent3.github.io/projects/creations/9_car_price_predictor/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>J. Golden Cross Trading Algo (video)</title>
-      <link>https://greent3.github.io/projects/creations/93_golden_cross/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://greent3.github.io/projects/creations/93_golden_cross/</guid>
-      <description>Buys or sells an equity in anticipation of the 5 period SMA crossing the 20 period SMA and employs a trailing stoploss. Resolution, SMA periods, stoplosses, and order entry/exit points are all optimizable.
-Video linked below!</description>
-    </item>
-    
-    <item>
-      <title>K. Minesweeper AI</title>
+      <title>Python ML: Minesweeper AI</title>
       <link>https://greent3.github.io/projects/creations/992_minesweeper/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -197,17 +198,7 @@ Completed as part of Harvard&amp;rsquo;s AI programming with python course.</des
     </item>
     
     <item>
-      <title>L. Drug Use by Education</title>
-      <link>https://greent3.github.io/projects/creations/1_drug_survey_analysis/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://greent3.github.io/projects/creations/1_drug_survey_analysis/</guid>
-      <description>With SQL queries, we&amp;rsquo;re able to answer questions like:
-Do graduate degree holders use caffeine more often than less educated people? Which illegal drugs are becoming more popular over the decades? Are less educated people more likely to lie about (overreport) drug usage? Do senior citizens smoke &amp;amp; drink less than young adults? </description>
-    </item>
-    
-    <item>
-      <title>M. Teaching a robot NIM</title>
+      <title>Python ML: Teaching a robot NIM</title>
       <link>https://greent3.github.io/projects/creations/96_nim_bot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -216,18 +207,18 @@ Do graduate degree holders use caffeine more often than less educated people? Wh
     </item>
     
     <item>
-      <title>O. Constraint Satisfication Crossword Solver</title>
-      <link>https://greent3.github.io/projects/creations/993_ai_crossword_constraint/</link>
+      <title>Python ML: TensorFlow Road Sign Classifier</title>
+      <link>https://greent3.github.io/projects/creations/3_road_sign_classifier/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://greent3.github.io/projects/creations/993_ai_crossword_constraint/</guid>
-      <description>Brute force solving a crossword puzzle with unary constraints (length of words) and binary constraints (overlapping letters between words).
-The AI uses domains to manage possible words that can be used in the puzzle. When the program reaches a point where a constraint is no longer satisfied, it backtracks and removes unusable words from the domain.
-Completed as part of Harvard&amp;rsquo;s AI programming with Python course.</description>
+      <guid>https://greent3.github.io/projects/creations/3_road_sign_classifier/</guid>
+      <description>As research continues in the development of self-driving cars, one of the key challenges is allowing these cars to develop an understanding of their environment from digital images.
+In my traffic-sign classification project, I used TensorFlow and the German Traffic Sign Recognition Benchmark dataset to build a neural network that puts images of road signs into different classifications.
+My role consisted of loading the data (images) into the program, resizing the images, and designing/implementing the neural network.</description>
     </item>
     
     <item>
-      <title>P. TicTacToe AI</title>
+      <title>Python ML: TicTacToe AI</title>
       <link>https://greent3.github.io/projects/creations/991_tic_tac_toe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -238,7 +229,28 @@ Completed as part of Harvard&amp;rsquo;s AI with programming course.</descriptio
     </item>
     
     <item>
-      <title>Q. Detective Conan Web Scraper</title>
+      <title>Python ML: Whisky Review Sentiment Classifier</title>
+      <link>https://greent3.github.io/projects/creations/8_naive_bayes_review_classifier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://greent3.github.io/projects/creations/8_naive_bayes_review_classifier/</guid>
+      <description>Classifying Japanese Whisky reviews using TFIDF/Naive Bayes
+Given a CSV file with 200 Japanese whisky reviews labeled &amp;ldquo;positive&amp;rdquo; or &amp;ldquo;negative&amp;rdquo;, and 900 unlabeled reviews, let&amp;rsquo;s train a Naive Bayes model on TFIDF data so we can predict the labels for the remaining 900.
+Note: The dataset was not that great (small, lots of typos, many negative reviews with positive sentiment words &amp;ldquo;ex: not that good&amp;rdquo;), but it still served as good practice for cleaning data, NB, vectorizers, working with dataframes, and even a little bit of SQL at the end.</description>
+    </item>
+    
+    <item>
+      <title>Python: Trading Algo (video) Golden Cross Algorithm</title>
+      <link>https://greent3.github.io/projects/creations/93_golden_cross/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://greent3.github.io/projects/creations/93_golden_cross/</guid>
+      <description>Buys or sells an equity in anticipation of the 5 period SMA crossing the 20 period SMA and employs a trailing stoploss. Resolution, SMA periods, stoplosses, and order entry/exit points are all optimizable.
+Video linked below!</description>
+    </item>
+    
+    <item>
+      <title>Python: Web scraping using Pandas</title>
       <link>https://greent3.github.io/projects/creations/95_scraping_detective_conan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -247,7 +259,7 @@ Completed as part of Harvard&amp;rsquo;s AI with programming course.</descriptio
     </item>
     
     <item>
-      <title>R. React Pomodoro Timer</title>
+      <title>React: Pomodoro Timer</title>
       <link>https://greent3.github.io/projects/creations/99_25&#43;5_clock/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -256,16 +268,6 @@ Completed as part of Harvard&amp;rsquo;s AI with programming course.</descriptio
 Implemented in 3 ways: as a single page stateful REACT app, a stateful app divided into parent &amp;amp; child classes, and an app made of functional components using hooks.
 What Is the Pomodoro Technique? Using this method, you break your workday into 25-minute chunks separated by five-minute breaks. These intervals are referred to as pomodoros.
 Every time the clock runs out, the timer automatically resets and switches to work/break session.</description>
-    </item>
-    
-    <item>
-      <title>S. Calculate My Outs (Texas Hold&#39;em)</title>
-      <link>https://greent3.github.io/projects/creations/994_calculate_my_outs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://greent3.github.io/projects/creations/994_calculate_my_outs/</guid>
-      <description>An &amp;lsquo;out&amp;rsquo; is a card that you have yet to see and can improve your hand in Texas Hold&amp;rsquo;em. This app shuffles a deck, gives every player at the table a hand of 2 cards, deals a flop, and then uses the cards in the flop and your hand to determine which cards are necessary to increase the value of your hand.
-Note: I wrote this program while quarantined in my dorm at University.</description>
     </item>
     
     <item>
@@ -283,15 +285,23 @@ Initial setup Search depends on additional output content type of JSON in config
     </item>
     
     <item>
-      <title>T. Watch out for Old Man Herbert!</title>
-      <link>https://greent3.github.io/projects/creations/995_herbert/</link>
+      <title>SQL: Writing scripts to analyze drug use statistics</title>
+      <link>https://greent3.github.io/projects/creations/1_drug_survey_analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://greent3.github.io/projects/creations/995_herbert/</guid>
-      <description>A playable game completed as a university project with the following specifications: The player&amp;rsquo;s health decreases when it moves
-The player&amp;rsquo;s health can be rejuvinated when within proximity to items (sodas and doughnuts)
-The player&amp;rsquo;s health decreaes when within proximity to enemies (old man herbert)
-The game will end when the player runs out of health</description>
+      <guid>https://greent3.github.io/projects/creations/1_drug_survey_analysis/</guid>
+      <description>With SQL queries, we&amp;rsquo;re able to answer questions like:
+Do graduate degree holders use caffeine more often than less educated people? Which illegal drugs are becoming more popular over the decades? Are less educated people more likely to lie about (overreport) drug usage? Do senior citizens smoke &amp;amp; drink less than young adults? </description>
+    </item>
+    
+    <item>
+      <title>SQL/Excel: Investigating User Decline</title>
+      <link>https://greent3.github.io/projects/creations/5_analyzing_user_decrease/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://greent3.github.io/projects/creations/5_analyzing_user_decrease/</guid>
+      <description>SITUATION: You show up to work one morning and the head of the product team asks you what you think about the latest activity on the user engagement dashboards. You fire them up and notice a decline in users over the past 2 months.
+ACTION: Using focused SQL queries to gather data about user events over the past couple months and Excel for data visualization, I was able to provide the following conclusions and recommendations.</description>
     </item>
     
   </channel>

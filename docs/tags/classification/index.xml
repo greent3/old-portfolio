@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://greent3.github.io/tags/classification/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>C. TensorFlow Road Sign Classifier</title>
+      <title>Python ML: Ecommerce Purchase Predictor</title>
+      <link>https://greent3.github.io/projects/creations/7_knn_purchase_predictor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://greent3.github.io/projects/creations/7_knn_purchase_predictor/</guid>
+      <description>When we run our program, we pass the location of a CSV file containing data about website shoppers as a command line argument. Our program:
+loads in that data reformats it into the correct data type splits it into training and testing data uses that data to train a k-nearest neighbors classification model and outputs the sensitivity (true positive rate) and specificity (true negative rate) of our trained model on our testing data.</description>
+    </item>
+    
+    <item>
+      <title>Python ML: TensorFlow Road Sign Classifier</title>
       <link>https://greent3.github.io/projects/creations/3_road_sign_classifier/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -18,17 +28,7 @@ My role consisted of loading the data (images) into the program, resizing the im
     </item>
     
     <item>
-      <title>F. Ecommerce Purchase Predictor</title>
-      <link>https://greent3.github.io/projects/creations/7_knn_purchase_predictor/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://greent3.github.io/projects/creations/7_knn_purchase_predictor/</guid>
-      <description>When we run our program, we pass the location of a CSV file containing data about website shoppers as a command line argument. Our program:
-loads in that data reformats it into the correct data type splits it into training and testing data uses that data to train a k-nearest neighbors classification model and outputs the sensitivity (true positive rate) and specificity (true negative rate) of our trained model on our testing data.</description>
-    </item>
-    
-    <item>
-      <title>G. Whisky Review Sentiment Classifier</title>
+      <title>Python ML: Whisky Review Sentiment Classifier</title>
       <link>https://greent3.github.io/projects/creations/8_naive_bayes_review_classifier/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       

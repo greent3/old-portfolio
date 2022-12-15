@@ -84,23 +84,21 @@
     <loc>https://greent3.github.io/tags/web-development/</loc>
     <lastmod>2009-01-01T14:09:10+00:00</lastmod>
   </url><url>
-    <loc>https://greent3.github.io/projects/creations/0_best_project_yet/</loc>
-  </url><url>
-    <loc>https://greent3.github.io/projects/creations/2_e-learning/</loc>
-  </url><url>
     <loc>https://greent3.github.io/tags/ai/</loc>
   </url><url>
     <loc>https://greent3.github.io/tags/algo/</loc>
   </url><url>
     <loc>https://greent3.github.io/tags/aws/</loc>
   </url><url>
-    <loc>https://greent3.github.io/projects/creations/4_restful-imdb/</loc>
+    <loc>https://greent3.github.io/projects/creations/0_best_project_yet/</loc>
   </url><url>
     <loc>https://greent3.github.io/tags/bamboo/</loc>
   </url><url>
-    <loc>https://greent3.github.io/projects/creations/3_road_sign_classifier/</loc>
-  </url><url>
     <loc>https://greent3.github.io/tags/c&#43;&#43;/</loc>
+  </url><url>
+    <loc>https://greent3.github.io/projects/creations/6_customer_record_database/</loc>
+  </url><url>
+    <loc>https://greent3.github.io/projects/creations/94_c&#43;&#43;_video_series/</loc>
   </url><url>
     <loc>https://greent3.github.io/tags/classification/</loc>
   </url><url>
@@ -110,45 +108,29 @@
   </url><url>
     <loc>https://greent3.github.io/tags/css/</loc>
   </url><url>
-    <loc>https://greent3.github.io/projects/creations/6_customer_record_database/</loc>
-  </url><url>
     <loc>https://greent3.github.io/tags/data-analysis/</loc>
   </url><url>
     <loc>https://greent3.github.io/tags/data-structures/</loc>
   </url><url>
     <loc>https://greent3.github.io/tags/django/</loc>
   </url><url>
-    <loc>https://greent3.github.io/projects/creations/94_c&#43;&#43;_video_series/</loc>
-  </url><url>
     <loc>https://greent3.github.io/tags/excel/</loc>
-  </url><url>
-    <loc>https://greent3.github.io/projects/creations/7_knn_purchase_predictor/</loc>
-  </url><url>
-    <loc>https://greent3.github.io/projects/creations/8_naive_bayes_review_classifier/</loc>
-  </url><url>
-    <loc>https://greent3.github.io/projects/creations/5_analyzing_user_decrease/</loc>
   </url><url>
     <loc>https://greent3.github.io/tags/hooks/</loc>
   </url><url>
     <loc>https://greent3.github.io/tags/html/</loc>
   </url><url>
-    <loc>https://greent3.github.io/projects/creations/9_car_price_predictor/</loc>
-  </url><url>
-    <loc>https://greent3.github.io/projects/creations/93_golden_cross/</loc>
-  </url><url>
     <loc>https://greent3.github.io/tags/java/</loc>
+  </url><url>
+    <loc>https://greent3.github.io/projects/creations/994_calculate_my_outs/</loc>
+  </url><url>
+    <loc>https://greent3.github.io/projects/creations/995_herbert/</loc>
   </url><url>
     <loc>https://greent3.github.io/tags/jquery/</loc>
   </url><url>
     <loc>https://greent3.github.io/tags/jupyter/</loc>
   </url><url>
-    <loc>https://greent3.github.io/projects/creations/992_minesweeper/</loc>
-  </url><url>
     <loc>https://greent3.github.io/tags/knn/</loc>
-  </url><url>
-    <loc>https://greent3.github.io/projects/creations/1_drug_survey_analysis/</loc>
-  </url><url>
-    <loc>https://greent3.github.io/projects/creations/96_nim_bot/</loc>
   </url><url>
     <loc>https://greent3.github.io/tags/minimax/</loc>
   </url><url>
@@ -158,36 +140,58 @@
   </url><url>
     <loc>https://greent3.github.io/tags/naive-bayes/</loc>
   </url><url>
-    <loc>https://greent3.github.io/projects/creations/993_ai_crossword_constraint/</loc>
-  </url><url>
     <loc>https://greent3.github.io/tags/oop/</loc>
-  </url><url>
-    <loc>https://greent3.github.io/projects/creations/991_tic_tac_toe/</loc>
   </url><url>
     <loc>https://greent3.github.io/tags/python/</loc>
   </url><url>
-    <loc>https://greent3.github.io/projects/creations/95_scraping_detective_conan/</loc>
+    <loc>https://greent3.github.io/projects/creations/calorie_counter/</loc>
   </url><url>
-    <loc>https://greent3.github.io/projects/creations/99_25&#43;5_clock/</loc>
+    <loc>https://greent3.github.io/projects/creations/2_e-learning/</loc>
+  </url><url>
+    <loc>https://greent3.github.io/projects/creations/4_restful-imdb/</loc>
+  </url><url>
+    <loc>https://greent3.github.io/projects/creations/9_car_price_predictor/</loc>
+  </url><url>
+    <loc>https://greent3.github.io/projects/creations/993_ai_crossword_constraint/</loc>
+  </url><url>
+    <loc>https://greent3.github.io/projects/creations/7_knn_purchase_predictor/</loc>
+  </url><url>
+    <loc>https://greent3.github.io/projects/creations/992_minesweeper/</loc>
+  </url><url>
+    <loc>https://greent3.github.io/projects/creations/96_nim_bot/</loc>
+  </url><url>
+    <loc>https://greent3.github.io/projects/creations/3_road_sign_classifier/</loc>
+  </url><url>
+    <loc>https://greent3.github.io/projects/creations/991_tic_tac_toe/</loc>
+  </url><url>
+    <loc>https://greent3.github.io/projects/creations/8_naive_bayes_review_classifier/</loc>
+  </url><url>
+    <loc>https://greent3.github.io/projects/creations/93_golden_cross/</loc>
+  </url><url>
+    <loc>https://greent3.github.io/projects/creations/95_scraping_detective_conan/</loc>
   </url><url>
     <loc>https://greent3.github.io/tags/random-forest/</loc>
   </url><url>
     <loc>https://greent3.github.io/tags/react/</loc>
   </url><url>
+    <loc>https://greent3.github.io/projects/creations/99_25&#43;5_clock/</loc>
+  </url><url>
     <loc>https://greent3.github.io/tags/regression/</loc>
   </url><url>
-    <loc>https://greent3.github.io/tags/restful-api/</loc>
+    <loc>https://greent3.github.io/tags/rest/</loc>
   </url><url>
-    <loc>https://greent3.github.io/projects/creations/994_calculate_my_outs/</loc>
+    <loc>https://greent3.github.io/tags/restful-api/</loc>
   </url><url>
     <loc>https://greent3.github.io/search/</loc>
     <priority>0.1</priority>
   </url><url>
     <loc>https://greent3.github.io/tags/sql/</loc>
   </url><url>
-    <loc>https://greent3.github.io/tags/sqlite/</loc>
+    <loc>https://greent3.github.io/projects/creations/1_drug_survey_analysis/</loc>
   </url><url>
-    <loc>https://greent3.github.io/projects/creations/995_herbert/</loc>
+    <loc>https://greent3.github.io/projects/creations/5_analyzing_user_decrease/</loc>
+  </url><url>
+    <loc>https://greent3.github.io/tags/sqlite/</loc>
   </url><url>
     <loc>https://greent3.github.io/tags/tensorflow/</loc>
   </url><url>

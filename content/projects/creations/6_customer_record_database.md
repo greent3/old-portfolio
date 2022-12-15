@@ -1,5 +1,5 @@
 {
-    "title":"D. C++ Customer Database Using Files",
+    "title":"C++: Customer Database Implemented Using Files",
     "link":"https://github.com/greent3/Struct-List",
     "image":"/img/bank.jpg",
     "description":"Linked-list implementation of a customer information database. Uses recursion, pointers, operator overloading, debug mode, copy constructors, and makefiles.",

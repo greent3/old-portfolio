@@ -1,5 +1,5 @@
 {
-    "title":"T. Watch out for Old Man Herbert!",
+    "title":"Java: Watch out for Old Man Herbert!",
     "link":"https://www.youtube.com/watch?v=r1hPocLys3c",
     "image":"/img/herbert.png",
     "description":"A playable game built in Java!",

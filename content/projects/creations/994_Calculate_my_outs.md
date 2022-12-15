@@ -1,5 +1,5 @@
 {
-    "title":"S. Calculate My Outs (Texas Hold'em)",
+    "title":"Java: Calculate My Outs (Texas Hold'em)",
     "link":"https://www.youtube.com/watch?v=XxRA5VM5DDE",
     "image":"/img/poker.jpg",
     "description":"The algorithm behind an application that outputs possible cards that could improve your poker hand. ",

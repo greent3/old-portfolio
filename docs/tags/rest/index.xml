@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>REST on Travis Green</title>
+    <link>https://greent3.github.io/tags/rest/</link>
+    <description>Recent content in REST on Travis Green</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://greent3.github.io/tags/rest/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Python Django: Calorie counter web-app (backend) w/ REST API using AWS RDBMS</title>
+      <link>https://greent3.github.io/projects/creations/calorie_counter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://greent3.github.io/projects/creations/calorie_counter/</guid>
+      <description>Coming Soon! Backend of a Django app where users can:
+Create accounts Track their calorie intake Add items to public list of food items Track see what they&amp;rsquo;ve eaten by day App to be hosted on AWS and use RDBMS.</description>
+    </item>
+    
+  </channel>
+</rss>

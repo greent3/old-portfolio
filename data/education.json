@@ -1,16 +1,22 @@
 [
     {
         "school":"University of Hawai'i",
-        "degree":"BA Computer Science & Chinese",
+        "degree":"Bachelors Computer Science & Chinese",
         "major":"\n- Dean's List (x3) \n- **Computer Science**: Java, C++, SQL, programming basics, data structures, program structure, OOP, unit testing, algorithms and runtime, discrete math, and calculus \n- **Chinese**: Functional fluency in Mandarin + well-rounded understanding of Chinese Culture",
         "notes":"",
-        "range":"2022"
+        "range":"2021"
     },
     {
         "school":"Community College of The Air Force",
         "degree":"Associates Applied Nursing Science",
         "major":"",
         "range":"2017"
+    },
+    {
+        "school":"Certifications",
+        "degree":"",
+        "major":"\n- AWS Certified Cloud Practicioner \n- Global Seal of Biliteracy: Mandarin (Functional Fluency)",
+        "range":""
     },
     {
         "school":"Miscellaneous Academia",
@@ -21,7 +27,7 @@
     {
         "school":"Online Courses",
         "degree":"",
-        "major":"\n- Harvard's Intro to AI with Python \n- Google's TinyML \n- Linux Command Line Interface \n- CryptoZombies and Ethernaut",
+        "major":"\n- Harvard's Intro to AI with Python \n- Google's TinyML \n- Linux Command Line Interface \n- (Solidity) CryptoZombies and Ethernaut",
         "range":""
     },
     {
