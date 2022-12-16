@@ -74,6 +74,17 @@ First it encrypts all communication that flies across the web. This prevents cur
     </item>
     
     <item>
+      <title>AWS S3 hosted blog site</title>
+      <link>https://greent3.github.io/projects/creations/static_site/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://greent3.github.io/projects/creations/static_site/</guid>
+      <description>A static site I made for my blog using HTML, CSS, and Javascript that is hosted on S3 and utulizes Cloudfront.
+Note: Though I know how to link a custom domain via Route53, I decided to save myself $12/year by not purchasing a custom domain.
+Be sure to listen to my brief interview with Rick Szabo!</description>
+    </item>
+    
+    <item>
       <title>AWS/Python: portfolio of my past investments</title>
       <link>https://greent3.github.io/projects/creations/0_best_project_yet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
