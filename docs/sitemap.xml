@@ -90,9 +90,9 @@
   </url><url>
     <loc>https://greent3.github.io/tags/aws/</loc>
   </url><url>
-    <loc>https://greent3.github.io/projects/creations/static_site/</loc>
-  </url><url>
     <loc>https://greent3.github.io/projects/creations/0_best_project_yet/</loc>
+  </url><url>
+    <loc>https://greent3.github.io/projects/creations/static_site/</loc>
   </url><url>
     <loc>https://greent3.github.io/tags/bamboo/</loc>
   </url><url>
@@ -143,6 +143,8 @@
     <loc>https://greent3.github.io/tags/naive-bayes/</loc>
   </url><url>
     <loc>https://greent3.github.io/tags/oop/</loc>
+  </url><url>
+    <loc>https://greent3.github.io/tags/postgresql/</loc>
   </url><url>
     <loc>https://greent3.github.io/tags/python/</loc>
   </url><url>
