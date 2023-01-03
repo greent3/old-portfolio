@@ -9,5 +9,5 @@
           "Regression",
           "Random Forest"
         ],
-    "featured": true
+    "featured":false
 }

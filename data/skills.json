@@ -1,10 +1,10 @@
 [
   {
       "grouping":"Languages and Tools",
-      "skills":[ "Python", "AWS", "C++", "Java", "SQL", "mysql", "SQLite", "Solidity", "Django", "Postman", "git", "Docker", "SQL Alchemy ORM", "Excel (pivot tables)"]
+      "skills":[ "Python", "AWS", "C++", "Java", "JavaScript", "SQL", "mysql", "postgreSQL", "SQLite", "Django", "Postman", "git", "Docker", "SQL Alchemy ORM", "Excel (pivot tables)"]
   },{
       "grouping":"Concepts",
-      "skills":["RESTful APIs", "S.O.L.I.D. OOP", "Data Structures", "Algorithms (searching, sorting, recursion, etc.)", "Database Architecture", "Web Scraping", "Data Cleaning & Wrangling", "Selecting & Evaluating ML Models", "Calculus & Statistics fundamentals", "Unit Testing", "D.R.Y.", "Runtime Complexity", "Linux Command Line"]
+      "skills":["RESTful APIs", "S.O.L.I.D. OOP", "Data Structures", "Algorithms (searching, sorting, recursion, etc.)", "Database Architecture", "Web Scraping", "Data Cleaning & Wrangling", "Selecting & Evaluating ML Models", "Calculus & Statistics fundamentals", "Unit Testing", "D.R.Y.", "Runtime Complexity", "Linux CLI"]
   },
   {
       "grouping":"Soft Skills",
