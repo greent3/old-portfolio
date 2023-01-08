@@ -239,5 +239,14 @@ Do graduate degree holders use caffeine more often than less educated people? Wh
 ACTION: Using focused SQL queries to gather data about user events over the past couple months and Excel for data visualization, I was able to provide the following conclusions and recommendations.</description>
     </item>
     
+    <item>
+      <title>The projects that didn&#39;t make the cut</title>
+      <link>https://greent3.github.io/projects/creations/999_all_others/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://greent3.github.io/projects/creations/999_all_others/</guid>
+      <description>All other projects that either aren&amp;rsquo;t 90+% my work, or aren&amp;rsquo;t worth featuring on the front page of my portfolio Practice with Pytorch (tutorial): Using pytorch to hard-code weights and biases for a Neural Network that predicts whether a drug dose is effective. Tutorial from StatQuest&amp;rsquo;s &amp;ldquo;Intro to pytorch&amp;rdquo; video on youtube Repo Link: https://github.com/greent3/Pytorch-Practice Django e-learning platform (Django tutorial): Backend of an e-learning platform built using Python Django (Courses, modules, instructors, students, etc.</description>
+    </item>
+    
   </channel>
 </rss>
