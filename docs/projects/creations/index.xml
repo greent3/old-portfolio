@@ -53,6 +53,20 @@ Video series linked below!</description>
     </item>
     
     <item>
+      <title>Django/ML: Credit Card approval website with custom ML models and REST API</title>
+      <link>https://greent3.github.io/projects/creations/1_credit_card/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://greent3.github.io/projects/creations/1_credit_card/</guid>
+      <description>In Progress!
+Django app where users can:
+Create accounts View available credit cards and their specs Create a preset application and apply for credit cards Users are approved/denied by a Logistic Regression model trained on demographic data from good/bad borrowers.
+Each credit card has it&amp;rsquo;s own ML model (trained on same data, but with different labels to ensure profitable profit/risk tradeoff)
+Includes:
+EDA/Data Cleaning Logistic Regression Model training and testing JavaScript for DOM manipulation Django Rest Framework API for accessing ML models Utilizes:</description>
+    </item>
+    
+    <item>
       <title>Java: Calculate My Outs (Texas Hold&#39;em)</title>
       <link>https://greent3.github.io/projects/creations/994_calculate_my_outs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -72,16 +86,6 @@ Note: I wrote this program while quarantined in my dorm at University.</descript
 The player&amp;rsquo;s health can be rejuvinated when within proximity to items (sodas and doughnuts)
 The player&amp;rsquo;s health decreaes when within proximity to enemies (old man herbert)
 The game will end when the player runs out of health</description>
-    </item>
-    
-    <item>
-      <title>Python Django: Calorie counter web-app (backend) w/ REST API using AWS RDBMS</title>
-      <link>https://greent3.github.io/projects/creations/calorie_counter/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://greent3.github.io/projects/creations/calorie_counter/</guid>
-      <description>Coming Soon! Backend of a Django app where users can:
-Create accounts Track their calorie intake Add items to public list of food items Track see what they&amp;rsquo;ve eaten by day App to be hosted on AWS and use RDBMS.</description>
     </item>
     
     <item>
