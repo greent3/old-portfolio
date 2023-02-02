@@ -17,12 +17,9 @@ outputs:
 &nbsp;  
 &nbsp;   
 
-#### Software Engineer & ML enthusiast with years of leadership and communication experience  
+#### Software Engineer with years of leadership and communication experience  
 
 \
-Are you looking for someone who can hop between server-side development and machine learning?  
-Perhaps someone with a track record of academic success, accountability, and strong interpersonal skills?  
-
 Strongest in Python, I love the art of turning code into a readable, reusable piece of art.  
 I'm also strong in C++, have done coursework in Java, React, Solidity, and am a Certified AWS Cloud Practitioner.  
 
